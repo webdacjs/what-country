@@ -12,7 +12,7 @@ const queryCurrency = (q, f) => {
 }
 
 const queryPhone = (q, f) => {
-  return pickReturnFields(countries.filter(x => parseInt(x.Phone) === parseInt(q)), f)
+  return pickReturnFields(countries.filter(x => parseInt(x.phone) === parseInt(q)), f)
 }
 
 const query = (q, f) => {
