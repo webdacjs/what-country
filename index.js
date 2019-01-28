@@ -1,7 +1,6 @@
 const countries = require('./data/countries.json')
-const pick = require('object.pick');
+const pick = require('object.pick')
 const {getFilterField} = require('./utils')
-
 
 const pickReturnFields = (r, f) => !f ? r : r.map(t => pick(t, f))
 
