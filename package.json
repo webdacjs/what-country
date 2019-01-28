@@ -1,0 +1,24 @@
+{
+  "name": "what-country",
+  "version": "1.0.0",
+  "description": "Query country data by name, iso code, tld, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdacjs/what-country.git"
+  },
+  "keywords": [
+    "country",
+    "iso",
+    "tld"
+  ],
+  "author": "Juan Convers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webdacjs/what-country/issues"
+  },
+  "homepage": "https://github.com/webdacjs/what-country#readme"
+}
