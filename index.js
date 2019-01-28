@@ -7,7 +7,7 @@ const pickReturnFields = (r, f) => !f ? r : r.map(t => pick(t, f))
 const lower = str => String(str.toLowerCase())
 
 const queryCurrency = (q, f) => {
-  const fieldFilter = q.length === 3 ? 'CurrencyCode' : 'CurrencyName'
+  const fieldFilter = q.length === 3 ? 'currencycode' : 'currencyname'
   return pickReturnFields(countries.filter(x => lower(x[fieldFilter]) === lower(q)), f)
 }
 
