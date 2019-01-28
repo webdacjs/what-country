@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/webdacjs/what-country/issues"
   },
-  "homepage": "https://github.com/webdacjs/what-country#readme"
+  "homepage": "https://github.com/webdacjs/what-country#readme",
+  "dependencies": {
+    "object.pick": "^1.3.0"
+  }
 }

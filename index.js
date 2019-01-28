@@ -1,20 +1,24 @@
 const countries = require('./data/countries.json')
+const pick = require('object.pick');
 const {getFilterField} = require('./utils')
+
+
+const pickReturnFields = (r, f) => !f ? r : r.map(t => pick(t, f))
 
 const lower = str => String(str.toLowerCase())
 
-const queryCurrency = q => {
+const queryCurrency = (q, f) => {
   const fieldFilter = q.length === 3 ? 'CurrencyCode' : 'CurrencyName'
-  return countries.filter(x => lower(x[fieldFilter]) === lower(q))
+  return pickReturnFields(countries.filter(x => lower(x[fieldFilter]) === lower(q)), f)
 }
 
-const queryPhone = q => {
-  return countries.filter(x => parseInt(x.Phone) === parseInt(q))
+const queryPhone = (q, f) => {
+  return pickReturnFields(countries.filter(x => parseInt(x.Phone) === parseInt(q)), f)
 }
 
-const query = q => {
+const query = (q, f) => {
   const fieldFilter = getFilterField(q)
-  return countries.filter(x => lower(x[fieldFilter]) === lower(q))
+  return pickReturnFields(countries.filter(x => lower(x[fieldFilter]) === lower(q)), f)
 }
 
 module.exports = {
