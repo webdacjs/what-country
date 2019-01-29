@@ -1,7 +1,7 @@
 {
   "name": "what-country",
   "version": "1.0.0",
-  "description": "Query country data by name, iso code, tld, etc",
+  "description": "Query country data by name, iso code, tld, currency, phone, etc",
   "main": "index.js",
   "scripts": {
     "test": "jest"

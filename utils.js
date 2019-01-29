@@ -9,7 +9,7 @@ const getFilterField = q => {
     case '0-3':
       return 'tld'
     default:
-      return 'country'
+      return 'name'
   }
 }
 
