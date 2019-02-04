@@ -24,6 +24,21 @@ test('Testing query country', () => {
   expect(res[0].name).toBe('Ireland')
 })
 
+test('Testing query country in German', () => {
+  const res = query('Irland')
+  expect(res[0].name).toBe('Ireland')
+})
+
+test('Testing query country in Spanish', () => {
+  const res = query('Irlanda')
+  expect(res[0].name).toBe('Ireland')
+})
+
+test('Testing query country in French', () => {
+  const res = query('Irlande')
+  expect(res[0].name).toBe('Ireland')
+})
+
 test('Testing query phone', () => {
   const res = queryPhone('353')
   expect(res[0].name).toBe('Ireland')
