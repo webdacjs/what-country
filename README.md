@@ -1,6 +1,6 @@
 # What Country
 
-This module get company information based on the query provided based on different parameters such as  name, iso code, tld, currency, phone, etc
+This module get company information based on the query provided based on different parameters such as name, iso code, tld, currency, phone, etc. The module supports querying the country in multiple languages.
 
 The most basic use is:
 
@@ -83,8 +83,51 @@ You can specify the field / fields to get in the reply with an optional second a
   { name: 'Mayotte' } ]
 ```
 
-Then as shown above you can pass two strings or an string and an array of strings. You can also pass a third parameter with options (it will be explained next).
+You can even get results querying the country using another language:
 
+```js
+> const {query} = require('what-country')
+// In German
+> query('irland')
+[ { iso: 'IE',
+    iso3: 'IRL',
+    iso_numeric: '372',
+    name: 'Ireland',
+    capital: 'Dublin',
+    continent: 'EU',
+    tld: '.ie',
+    currencycode: 'EUR',
+    currencyname: 'Euro',
+    phone: '353' } ]
+
+// or in French
+
+// In German
+> query('irlande')
+[ { iso: 'IE',
+    iso3: 'IRL',
+    iso_numeric: '372',
+    name: 'Ireland',
+    capital: 'Dublin',
+    continent: 'EU',
+    tld: '.ie',
+    currencycode: 'EUR',
+    currencyname: 'Euro',
+    phone: '353' } ]
+
+// Or even Japan in Japanese!!!
+> f.query('日本')
+[ { iso: 'JP',
+    iso3: 'JPN',
+    iso_numeric: '392',
+    name: 'Japan',
+    capital: 'Tokyo',
+    continent: 'AS',
+    tld: '.jp',
+    currencycode: 'JPY',
+    currencyname: 'Yen',
+    phone: '81' } ]
+```
 
 ### License
 
