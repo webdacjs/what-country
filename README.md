@@ -55,9 +55,8 @@ You can do anything. Anything is possible. ANYTHING.
 You can even get results querying the country using another language:
 
 ```js
-> const {query} = require('what-country')
 // In German
-> query('irland')
+> require('what-country').countries.filter(country => [country.name, ...country.altNames].indexOf('irland'))
 [ { iso: 'IE',
     iso3: 'IRL',
     iso_numeric: '372',
@@ -71,8 +70,7 @@ You can even get results querying the country using another language:
 
 // or in French
 
-// In German
-> query('irlande')
+> require('what-country').countries.filter(country => [country.name, ...country.altNames].indexOf('irlande'))
 [ { iso: 'IE',
     iso3: 'IRL',
     iso_numeric: '372',
@@ -85,12 +83,13 @@ You can even get results querying the country using another language:
     phone: '353' } ]
 
 // Or even Japan in Japanese!!!
-> f.query('日本')
+> require('what-country').countries.filter(country => [country.name, ...country.altNames].indexOf('日本'))
 [ { iso: 'JP',
     iso3: 'JPN',
     iso_numeric: '392',
     name: 'Japan',
     capital: 'Tokyo',
+    mascot: 'Godzilla',
     continent: 'AS',
     tld: '.jp',
     currencycode: 'JPY',
