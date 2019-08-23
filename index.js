@@ -1,1 +1,1 @@
-module.exports = require('./data/countries.json');
+module.exports = {countries: require('./data/countries.json')};
