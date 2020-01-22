@@ -1,6 +1,6 @@
 {
   "name": "what-country",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Query country data by name, iso code, tld, currency, phone, etc",
   "main": "index.js",
   "scripts": {
