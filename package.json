@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/webdacjs/what-country#readme",
   "dependencies": {
+    "lodash.filter": "^4.6.0",
     "object.pick": "^1.3.0"
   },
   "devDependencies": {
