@@ -129,7 +129,28 @@ You can even get results querying the country using another language:
     phone: '81' } ]
 ```
 
+Finally the module will try to address cases where the input have duplicate entries:
+
+```js
+> const {query} = require('what-country')
+
+// Duplicate Ireland name.
+
+> query('Ireland Ireland')
+[ { iso: 'IE',
+    iso3: 'IRL',
+    iso_numeric: '372',
+    name: 'Ireland',
+    capital: 'Dublin',
+    continent: 'EU',
+    tld: '.ie',
+    currencycode: 'EUR',
+    currencyname: 'Euro',
+    phone: '353' } ]
+
+```
+
 ### License
 
-Copyright © 2019, [Juan Convers](https://juanconvers.com).
+Copyright © 2020, [Juan Convers](https://juanconvers.com).
 Released under the [MIT License](LICENSE).
