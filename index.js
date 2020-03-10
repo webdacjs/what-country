@@ -1,21 +1,31 @@
 const countries = require('./data/countries.json')
+const filter = require('lodash.filter')
 const {
+  lower,
+  toInt,
   getFilterField,
   getCurrencyField,
   pickReturnFields,
-  checkAltNames
+  checkDupsAltNames
 } = require('./utils')
 
-const lower = str => String(str.toLowerCase())
+function queryCurrency (q, f) {
+  const lq = lower(q)
+  const filtered = filter(countries, (x => lower(x[getCurrencyField(q)]) === lq))
+  return pickReturnFields(filtered, f)
+}
 
-const queryCurrency = (q, f) => pickReturnFields(
-  countries.filter(x => lower(x[getCurrencyField(q)]) === lower(q)), f)
+function queryPhone (q, f) {
+  const intQuery = toInt(q)
+  const filtered = filter(countries, x => toInt(x.phone) === intQuery)
+  return pickReturnFields(filtered, f)
+}
 
-const queryPhone = (q, f) => pickReturnFields(
-  countries.filter(x => parseInt(x.phone) === parseInt(q)), f)
-
-const query = (q, f) => pickReturnFields(checkAltNames(
-  countries.filter(x => lower(x[getFilterField(q)]) === lower(q)), q), f)
+function query (q, f) {
+  const lq = lower(q)
+  const filtered = filter(countries, (x => lower(x[getFilterField(lq)]) === lq))
+  return filtered.length > 0 ? pickReturnFields(filtered, f) : checkDupsAltNames(lq, f)
+}
 
 module.exports = {
   queryCurrency,

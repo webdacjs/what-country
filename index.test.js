@@ -24,6 +24,21 @@ test('Testing query country', () => {
   expect(res[0].name).toBe('Ireland')
 })
 
+test('Testing query repeated country name', () => {
+  const res = query('Ireland Ireland')
+  expect(res[0].name).toBe('Ireland')
+})
+
+test('Testing query repeated country name with multiple words', () => {
+  const res = query('United States United States')
+  expect(res[0].iso).toBe('US')
+})
+
+test('Testing query repeated country name with multiple spnaish words', () => {
+  const res = query('Estados Unidos de América Estados Unidos de América')
+  expect(res[0].iso).toBe('US')
+})
+
 test('Testing query country in German', () => {
   const res = query('Irland')
   expect(res[0].name).toBe('Ireland')
