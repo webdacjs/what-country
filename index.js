@@ -1,4 +1,5 @@
 const countries = require('./data/countries.json')
+const soa = require('sort-objects-array')
 const filter = require('lodash.filter')
 const {
   lower,
@@ -21,6 +22,13 @@ function queryPhone (q, f) {
   return pickReturnFields(filtered, f)
 }
 
+function queryCitizenship (q, f) {
+  const lq = lower(q)
+  const filtered = filter(countries, (x => x.nationality.map(nat => lower(nat)).includes(lq)))
+  const sorted = filtered.length > 0 ? soa(filtered, 'population', 'desc') : filtered
+  return pickReturnFields(sorted, f)
+}
+
 function query (q, f) {
   const lq = lower(q)
   const filtered = filter(countries, (x => lower(x[getFilterField(lq)]) === lq))
@@ -30,5 +38,6 @@ function query (q, f) {
 module.exports = {
   queryCurrency,
   queryPhone,
+  queryCitizenship,
   query
 }

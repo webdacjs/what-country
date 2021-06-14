@@ -21,6 +21,9 @@
         "neighbour_countries": [
             "ES",
             "FR"
+        ],
+        "nationality": [
+            "Andorran"
         ]
     },
     {
@@ -53,6 +56,11 @@
         "neighbour_countries": [
             "SA",
             "OM"
+        ],
+        "nationality": [
+            "Emirati",
+            "Emirian",
+            "Emiri"
         ]
     },
     {
@@ -87,6 +95,9 @@
             "TJ",
             "PK",
             "UZ"
+        ],
+        "nationality": [
+            "Afghan"
         ]
     },
     {
@@ -110,6 +121,9 @@
         "iso_numeric": "028",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Antiguan or Barbudan"
         ]
     },
     {
@@ -133,6 +147,9 @@
         "iso_numeric": "660",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Anguillan"
         ]
     },
     {
@@ -162,6 +179,9 @@
             "ME",
             "RS",
             "XK"
+        ],
+        "nationality": [
+            "Albanian"
         ]
     },
     {
@@ -188,6 +208,9 @@
             "IR",
             "AZ",
             "TR"
+        ],
+        "nationality": [
+            "Armenian"
         ]
     },
     {
@@ -214,6 +237,9 @@
             "NA",
             "ZM",
             "CG"
+        ],
+        "nationality": [
+            "Angolan"
         ]
     },
     {
@@ -233,6 +259,9 @@
         "iso_numeric": "010",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Antarctic"
         ]
     },
     {
@@ -270,6 +299,9 @@
             "UY",
             "PY",
             "BR"
+        ],
+        "nationality": [
+            "Argentine"
         ]
     },
     {
@@ -297,6 +329,9 @@
         "iso_numeric": "016",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "American Samoan"
         ]
     },
     {
@@ -333,6 +368,9 @@
             "IT",
             "SI",
             "LI"
+        ],
+        "nationality": [
+            "Austrian"
         ]
     },
     {
@@ -356,6 +394,9 @@
         "iso_numeric": "036",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Australian"
         ]
     },
     {
@@ -384,6 +425,9 @@
         "iso_numeric": "533",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Aruban"
         ]
     },
     {
@@ -407,6 +451,9 @@
         "iso_numeric": "248",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Åland Island"
         ]
     },
     {
@@ -438,6 +485,10 @@
             "AM",
             "TR",
             "RU"
+        ],
+        "nationality": [
+            "Azerbaijani",
+            "Azeri"
         ]
     },
     {
@@ -467,6 +518,9 @@
             "HR",
             "ME",
             "RS"
+        ],
+        "nationality": [
+            "Bosnian or Herzegovinian"
         ]
     },
     {
@@ -490,6 +544,9 @@
         "iso_numeric": "052",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Barbadian"
         ]
     },
     {
@@ -516,6 +573,9 @@
         "neighbour_countries": [
             "MM",
             "IN"
+        ],
+        "nationality": [
+            "Bangladeshi"
         ]
     },
     {
@@ -546,6 +606,9 @@
             "NL",
             "LU",
             "FR"
+        ],
+        "nationality": [
+            "Belgian"
         ]
     },
     {
@@ -575,6 +638,9 @@
             "CI",
             "TG",
             "ML"
+        ],
+        "nationality": [
+            "Burkinabé"
         ]
     },
     {
@@ -605,6 +671,9 @@
             "RO",
             "TR",
             "RS"
+        ],
+        "nationality": [
+            "Bulgarian"
         ]
     },
     {
@@ -634,6 +703,9 @@
         "iso_numeric": "048",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Bahraini"
         ]
     },
     {
@@ -661,6 +733,9 @@
             "TZ",
             "CD",
             "RW"
+        ],
+        "nationality": [
+            "Burundian"
         ]
     },
     {
@@ -687,6 +762,10 @@
             "TG",
             "BF",
             "NG"
+        ],
+        "nationality": [
+            "Beninese",
+            "Beninois"
         ]
     },
     {
@@ -710,6 +789,9 @@
         "iso_numeric": "652",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Barthélemois"
         ]
     },
     {
@@ -735,6 +817,10 @@
         "iso_numeric": "060",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Bermudian",
+            "Bermudan"
         ]
     },
     {
@@ -760,6 +846,9 @@
         "iso_numeric": "096",
         "neighbour_countries": [
             "MY"
+        ],
+        "nationality": [
+            "Bruneian"
         ]
     },
     {
@@ -791,6 +880,9 @@
             "PY",
             "BR",
             "AR"
+        ],
+        "nationality": [
+            "Bolivian"
         ]
     },
     {
@@ -817,6 +909,9 @@
         "iso_numeric": "535",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Bonaire"
         ]
     },
     {
@@ -855,6 +950,9 @@
             "VE",
             "CO",
             "AR"
+        ],
+        "nationality": [
+            "Brazilian"
         ]
     },
     {
@@ -878,6 +976,9 @@
         "iso_numeric": "044",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Bahamian"
         ]
     },
     {
@@ -902,6 +1003,9 @@
         "neighbour_countries": [
             "CN",
             "IN"
+        ],
+        "nationality": [
+            "Bhutanese"
         ]
     },
     {
@@ -921,6 +1025,9 @@
         "iso_numeric": "074",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Bouvet Island"
         ]
     },
     {
@@ -948,6 +1055,10 @@
             "ZW",
             "ZA",
             "NA"
+        ],
+        "nationality": [
+            "Motswana",
+            "Botswanan"
         ]
     },
     {
@@ -977,6 +1088,9 @@
             "UA",
             "RU",
             "LV"
+        ],
+        "nationality": [
+            "Belarusian"
         ]
     },
     {
@@ -1003,6 +1117,9 @@
         "neighbour_countries": [
             "GT",
             "MX"
+        ],
+        "nationality": [
+            "Belizean"
         ]
     },
     {
@@ -1030,6 +1147,9 @@
         "iso_numeric": "124",
         "neighbour_countries": [
             "US"
+        ],
+        "nationality": [
+            "Canadian"
         ]
     },
     {
@@ -1055,6 +1175,9 @@
         "iso_numeric": "166",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Cocos Island"
         ]
     },
     {
@@ -1094,6 +1217,9 @@
             "UG",
             "CG",
             "AO"
+        ],
+        "nationality": [
+            "Congolese"
         ]
     },
     {
@@ -1128,6 +1254,9 @@
             "SS",
             "CM",
             "CG"
+        ],
+        "nationality": [
+            "Central African"
         ]
     },
     {
@@ -1159,6 +1288,9 @@
             "CD",
             "CM",
             "AO"
+        ],
+        "nationality": [
+            "Congolese"
         ]
     },
     {
@@ -1192,6 +1324,9 @@
             "LI",
             "FR",
             "AT"
+        ],
+        "nationality": [
+            "Swiss"
         ]
     },
     {
@@ -1219,6 +1354,9 @@
             "GN",
             "BF",
             "ML"
+        ],
+        "nationality": [
+            "Ivorian"
         ]
     },
     {
@@ -1244,6 +1382,9 @@
         "iso_numeric": "184",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Cook Island"
         ]
     },
     {
@@ -1269,6 +1410,9 @@
             "PE",
             "BO",
             "AR"
+        ],
+        "nationality": [
+            "Chilean"
         ]
     },
     {
@@ -1299,6 +1443,9 @@
             "GQ",
             "CG",
             "NG"
+        ],
+        "nationality": [
+            "Cameroonian"
         ]
     },
     {
@@ -1342,6 +1489,9 @@
             "RU",
             "VN",
             "IN"
+        ],
+        "nationality": [
+            "Chinese"
         ]
     },
     {
@@ -1369,6 +1519,9 @@
             "PA",
             "BR",
             "VE"
+        ],
+        "nationality": [
+            "Colombian"
         ]
     },
     {
@@ -1395,6 +1548,9 @@
         "neighbour_countries": [
             "PA",
             "NI"
+        ],
+        "nationality": [
+            "Costa Rican"
         ]
     },
     {
@@ -1419,6 +1575,9 @@
         "iso_numeric": "192",
         "neighbour_countries": [
             "US"
+        ],
+        "nationality": [
+            "Cuban"
         ]
     },
     {
@@ -1442,13 +1601,16 @@
         "iso_numeric": "132",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Cabo Verdean"
         ]
     },
     {
         "iso": "CW",
         "iso3": "CUW",
         "name": "Curacao",
-        "capital": " Willemstad",
+        "capital": "Willemstad",
         "area": "444",
         "population": "141766",
         "continent": "NA",
@@ -1466,6 +1628,9 @@
         "iso_numeric": "531",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Curaçaoan"
         ]
     },
     {
@@ -1493,6 +1658,9 @@
         "iso_numeric": "162",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Christmas Island"
         ]
     },
     {
@@ -1520,6 +1688,9 @@
         "iso_numeric": "196",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Cypriot"
         ]
     },
     {
@@ -1548,6 +1719,9 @@
             "DE",
             "SK",
             "AT"
+        ],
+        "nationality": [
+            "Czech"
         ]
     },
     {
@@ -1579,6 +1753,9 @@
             "LU",
             "FR",
             "AT"
+        ],
+        "nationality": [
+            "German"
         ]
     },
     {
@@ -1610,6 +1787,9 @@
             "ER",
             "ET",
             "SO"
+        ],
+        "nationality": [
+            "Djiboutian"
         ]
     },
     {
@@ -1639,6 +1819,9 @@
         "iso_numeric": "208",
         "neighbour_countries": [
             "DE"
+        ],
+        "nationality": [
+            "Danish"
         ]
     },
     {
@@ -1662,6 +1845,9 @@
         "iso_numeric": "212",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Dominican"
         ]
     },
     {
@@ -1685,6 +1871,9 @@
         "iso_numeric": "214",
         "neighbour_countries": [
             "HT"
+        ],
+        "nationality": [
+            "Dominican"
         ]
     },
     {
@@ -1714,6 +1903,9 @@
             "TN",
             "MA",
             "ML"
+        ],
+        "nationality": [
+            "Algerian"
         ]
     },
     {
@@ -1738,6 +1930,9 @@
         "neighbour_countries": [
             "PE",
             "CO"
+        ],
+        "nationality": [
+            "Ecuadorian"
         ]
     },
     {
@@ -1764,6 +1959,9 @@
         "neighbour_countries": [
             "RU",
             "LV"
+        ],
+        "nationality": [
+            "Estonian"
         ]
     },
     {
@@ -1794,6 +1992,9 @@
             "SD",
             "IL",
             "PS"
+        ],
+        "nationality": [
+            "Egyptian"
         ]
     },
     {
@@ -1820,6 +2021,11 @@
             "DZ",
             "MR",
             "MA"
+        ],
+        "nationality": [
+            "Sahrawi",
+            "Sahrawian",
+            "Sahraouian"
         ]
     },
     {
@@ -1851,6 +2057,9 @@
             "ET",
             "SD",
             "DJ"
+        ],
+        "nationality": [
+            "Eritrean"
         ]
     },
     {
@@ -1886,6 +2095,9 @@
             "GI",
             "FR",
             "MA"
+        ],
+        "nationality": [
+            "Spanish"
         ]
     },
     {
@@ -1923,6 +2135,9 @@
             "SS",
             "SO",
             "DJ"
+        ],
+        "nationality": [
+            "Ethiopian"
         ]
     },
     {
@@ -1951,6 +2166,9 @@
             "NO",
             "RU",
             "SE"
+        ],
+        "nationality": [
+            "Finnish"
         ]
     },
     {
@@ -1976,6 +2194,9 @@
         "iso_numeric": "242",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Fijian"
         ]
     },
     {
@@ -1999,6 +2220,9 @@
         "iso_numeric": "238",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Falkland Island"
         ]
     },
     {
@@ -2030,6 +2254,9 @@
         "iso_numeric": "583",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Micronesian"
         ]
     },
     {
@@ -2055,6 +2282,9 @@
         "iso_numeric": "234",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Faroese"
         ]
     },
     {
@@ -2096,6 +2326,9 @@
             "AD",
             "MC",
             "ES"
+        ],
+        "nationality": [
+            "French"
         ]
     },
     {
@@ -2121,6 +2354,9 @@
             "CM",
             "GQ",
             "CG"
+        ],
+        "nationality": [
+            "Gabonese"
         ]
     },
     {
@@ -2148,6 +2384,10 @@
         "iso_numeric": "826",
         "neighbour_countries": [
             "IE"
+        ],
+        "nationality": [
+            "British",
+            "UK"
         ]
     },
     {
@@ -2171,6 +2411,9 @@
         "iso_numeric": "308",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Grenadian"
         ]
     },
     {
@@ -2203,6 +2446,9 @@
             "AZ",
             "TR",
             "RU"
+        ],
+        "nationality": [
+            "Georgian"
         ]
     },
     {
@@ -2227,6 +2473,9 @@
         "neighbour_countries": [
             "SR",
             "BR"
+        ],
+        "nationality": [
+            "French Guianese"
         ]
     },
     {
@@ -2251,6 +2500,9 @@
         "iso_numeric": "831",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Channel Island"
         ]
     },
     {
@@ -2282,6 +2534,9 @@
             "CI",
             "TG",
             "BF"
+        ],
+        "nationality": [
+            "Ghanaian"
         ]
     },
     {
@@ -2311,6 +2566,9 @@
         "iso_numeric": "292",
         "neighbour_countries": [
             "ES"
+        ],
+        "nationality": [
+            "Gibraltar"
         ]
     },
     {
@@ -2338,6 +2596,9 @@
         "iso_numeric": "304",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Greenlandic"
         ]
     },
     {
@@ -2367,6 +2628,9 @@
         "iso_numeric": "270",
         "neighbour_countries": [
             "SN"
+        ],
+        "nationality": [
+            "Gambian"
         ]
     },
     {
@@ -2395,6 +2659,9 @@
             "CI",
             "GW",
             "ML"
+        ],
+        "nationality": [
+            "Guinean"
         ]
     },
     {
@@ -2418,6 +2685,9 @@
         "iso_numeric": "312",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Guadeloupe"
         ]
     },
     {
@@ -2444,6 +2714,10 @@
         "neighbour_countries": [
             "GA",
             "CM"
+        ],
+        "nationality": [
+            "Equatorial Guinean",
+            "Equatoguinean"
         ]
     },
     {
@@ -2474,6 +2748,10 @@
             "MK",
             "TR",
             "BG"
+        ],
+        "nationality": [
+            "Greek",
+            "Hellenic"
         ]
     },
     {
@@ -2497,6 +2775,9 @@
         "iso_numeric": "239",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "South Georgia or South Sandwich Islands"
         ]
     },
     {
@@ -2523,6 +2804,9 @@
             "HN",
             "BZ",
             "SV"
+        ],
+        "nationality": [
+            "Guatemalan"
         ]
     },
     {
@@ -2548,6 +2832,10 @@
         "iso_numeric": "316",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Guamanian",
+            "Guambat"
         ]
     },
     {
@@ -2573,6 +2861,9 @@
         "neighbour_countries": [
             "SN",
             "GN"
+        ],
+        "nationality": [
+            "Bissau-Guinean"
         ]
     },
     {
@@ -2598,6 +2889,9 @@
             "SR",
             "BR",
             "VE"
+        ],
+        "nationality": [
+            "Guyanese"
         ]
     },
     {
@@ -2626,6 +2920,10 @@
         "iso_numeric": "344",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Hong Kong",
+            "Hong Kongese"
         ]
     },
     {
@@ -2645,6 +2943,9 @@
         "iso_numeric": "334",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Heard Island or McDonald Islands"
         ]
     },
     {
@@ -2672,6 +2973,9 @@
             "GT",
             "NI",
             "SV"
+        ],
+        "nationality": [
+            "Honduran"
         ]
     },
     {
@@ -2701,6 +3005,9 @@
             "BA",
             "ME",
             "RS"
+        ],
+        "nationality": [
+            "Croatian"
         ]
     },
     {
@@ -2726,6 +3033,9 @@
         "iso_numeric": "332",
         "neighbour_countries": [
             "DO"
+        ],
+        "nationality": [
+            "Haitian"
         ]
     },
     {
@@ -2755,6 +3065,10 @@
             "HR",
             "AT",
             "RS"
+        ],
+        "nationality": [
+            "Hungarian",
+            "Magyar"
         ]
     },
     {
@@ -2786,6 +3100,9 @@
             "PG",
             "TL",
             "MY"
+        ],
+        "nationality": [
+            "Indonesian"
         ]
     },
     {
@@ -2811,6 +3128,9 @@
         "iso_numeric": "372",
         "neighbour_countries": [
             "GB"
+        ],
+        "nationality": [
+            "Irish"
         ]
     },
     {
@@ -2842,6 +3162,9 @@
             "LB",
             "EG",
             "PS"
+        ],
+        "nationality": [
+            "Israeli"
         ]
     },
     {
@@ -2867,6 +3190,9 @@
         "iso_numeric": "833",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Manx"
         ]
     },
     {
@@ -2938,6 +3264,9 @@
             "BT",
             "PK",
             "BD"
+        ],
+        "nationality": [
+            "Indian"
         ]
     },
     {
@@ -2961,6 +3290,9 @@
         "iso_numeric": "086",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "BIOT"
         ]
     },
     {
@@ -2993,6 +3325,9 @@
             "JO",
             "TR",
             "KW"
+        ],
+        "nationality": [
+            "Iraqi"
         ]
     },
     {
@@ -3024,6 +3359,10 @@
             "PK",
             "AZ",
             "TR"
+        ],
+        "nationality": [
+            "Iranian",
+            "Persian"
         ]
     },
     {
@@ -3057,6 +3396,9 @@
         "iso_numeric": "352",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Icelandic"
         ]
     },
     {
@@ -3097,6 +3439,9 @@
             "SM",
             "FR",
             "AT"
+        ],
+        "nationality": [
+            "Italian"
         ]
     },
     {
@@ -3123,6 +3468,9 @@
         "iso_numeric": "832",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Channel Island"
         ]
     },
     {
@@ -3146,6 +3494,9 @@
         "iso_numeric": "388",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Jamaican"
         ]
     },
     {
@@ -3175,6 +3526,9 @@
             "IQ",
             "IL",
             "PS"
+        ],
+        "nationality": [
+            "Jordanian"
         ]
     },
     {
@@ -3198,6 +3552,9 @@
         "iso_numeric": "392",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Japanese"
         ]
     },
     {
@@ -3227,6 +3584,9 @@
             "SS",
             "SO",
             "UG"
+        ],
+        "nationality": [
+            "Kenyan"
         ]
     },
     {
@@ -3257,6 +3617,12 @@
             "TJ",
             "UZ",
             "KZ"
+        ],
+        "nationality": [
+            "Kyrgyzstani",
+            "Kyrgyz",
+            "Kirgiz",
+            "Kirghiz"
         ]
     },
     {
@@ -3286,6 +3652,9 @@
             "LA",
             "TH",
             "VN"
+        ],
+        "nationality": [
+            "Cambodian"
         ]
     },
     {
@@ -3310,6 +3679,9 @@
         "iso_numeric": "296",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "I-Kiribati"
         ]
     },
     {
@@ -3335,6 +3707,10 @@
         "iso_numeric": "174",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Comoran",
+            "Comorian"
         ]
     },
     {
@@ -3358,6 +3734,9 @@
         "iso_numeric": "659",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Kittitian or Nevisian"
         ]
     },
     {
@@ -3383,6 +3762,9 @@
             "CN",
             "KR",
             "RU"
+        ],
+        "nationality": [
+            "North Korean"
         ]
     },
     {
@@ -3408,6 +3790,9 @@
         "iso_numeric": "410",
         "neighbour_countries": [
             "KP"
+        ],
+        "nationality": [
+            "South Korean"
         ]
     },
     {
@@ -3436,6 +3821,9 @@
             "AL",
             "MK",
             "ME"
+        ],
+        "nationality": [
+            "Kosovar"
         ]
     },
     {
@@ -3462,6 +3850,9 @@
         "neighbour_countries": [
             "SA",
             "IQ"
+        ],
+        "nationality": [
+            "Kuwaiti"
         ]
     },
     {
@@ -3485,6 +3876,9 @@
         "iso_numeric": "136",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Caymanian"
         ]
     },
     {
@@ -3514,6 +3908,10 @@
             "KG",
             "UZ",
             "RU"
+        ],
+        "nationality": [
+            "Kazakhstani",
+            "Kazakh"
         ]
     },
     {
@@ -3545,6 +3943,10 @@
             "KH",
             "TH",
             "VN"
+        ],
+        "nationality": [
+            "Lao",
+            "Laotian"
         ]
     },
     {
@@ -3575,6 +3977,9 @@
         "neighbour_countries": [
             "SY",
             "IL"
+        ],
+        "nationality": [
+            "Lebanese"
         ]
     },
     {
@@ -3598,6 +4003,9 @@
         "iso_numeric": "662",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Saint Lucian"
         ]
     },
     {
@@ -3622,6 +4030,9 @@
         "neighbour_countries": [
             "CH",
             "AT"
+        ],
+        "nationality": [
+            "Liechtenstein"
         ]
     },
     {
@@ -3649,6 +4060,9 @@
         "iso_numeric": "144",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Sri Lankan"
         ]
     },
     {
@@ -3674,6 +4088,9 @@
             "SL",
             "CI",
             "GN"
+        ],
+        "nationality": [
+            "Liberian"
         ]
     },
     {
@@ -3703,6 +4120,9 @@
         "iso_numeric": "426",
         "neighbour_countries": [
             "ZA"
+        ],
+        "nationality": [
+            "Basotho"
         ]
     },
     {
@@ -3733,6 +4153,9 @@
             "BY",
             "RU",
             "LV"
+        ],
+        "nationality": [
+            "Lithuanian"
         ]
     },
     {
@@ -3762,6 +4185,10 @@
             "DE",
             "BE",
             "FR"
+        ],
+        "nationality": [
+            "Luxembourg",
+            "Luxembourgish"
         ]
     },
     {
@@ -3792,6 +4219,9 @@
             "EE",
             "BY",
             "RU"
+        ],
+        "nationality": [
+            "Latvian"
         ]
     },
     {
@@ -3824,6 +4254,9 @@
             "SD",
             "TN",
             "EG"
+        ],
+        "nationality": [
+            "Libyan"
         ]
     },
     {
@@ -3852,6 +4285,9 @@
             "DZ",
             "EH",
             "ES"
+        ],
+        "nationality": [
+            "Moroccan"
         ]
     },
     {
@@ -3879,6 +4315,10 @@
         "iso_numeric": "492",
         "neighbour_countries": [
             "FR"
+        ],
+        "nationality": [
+            "Monégasque",
+            "Monacan"
         ]
     },
     {
@@ -3908,6 +4348,9 @@
         "neighbour_countries": [
             "RO",
             "UA"
+        ],
+        "nationality": [
+            "Moldovan"
         ]
     },
     {
@@ -3944,6 +4387,9 @@
             "BA",
             "RS",
             "XK"
+        ],
+        "nationality": [
+            "Montenegrin"
         ]
     },
     {
@@ -3967,6 +4413,9 @@
         "iso_numeric": "663",
         "neighbour_countries": [
             "SX"
+        ],
+        "nationality": [
+            "Saint-Martinoise"
         ]
     },
     {
@@ -3992,6 +4441,9 @@
         "iso_numeric": "450",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Malagasy"
         ]
     },
     {
@@ -4017,6 +4469,9 @@
         "iso_numeric": "584",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Marshallese"
         ]
     },
     {
@@ -4051,6 +4506,9 @@
             "BG",
             "RS",
             "XK"
+        ],
+        "nationality": [
+            "Macedonian"
         ]
     },
     {
@@ -4082,6 +4540,10 @@
             "GN",
             "MR",
             "BF"
+        ],
+        "nationality": [
+            "Malian",
+            "Malinese"
         ]
     },
     {
@@ -4109,6 +4571,9 @@
             "TH",
             "BD",
             "IN"
+        ],
+        "nationality": [
+            "Burmese"
         ]
     },
     {
@@ -4135,6 +4600,9 @@
         "neighbour_countries": [
             "CN",
             "RU"
+        ],
+        "nationality": [
+            "Mongolian"
         ]
     },
     {
@@ -4162,6 +4630,10 @@
         "iso_numeric": "446",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Macanese",
+            "Chinese"
         ]
     },
     {
@@ -4192,6 +4664,9 @@
         "iso_numeric": "580",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Northern Marianan"
         ]
     },
     {
@@ -4215,6 +4690,10 @@
         "iso_numeric": "474",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Martiniquais",
+            "Martinican"
         ]
     },
     {
@@ -4248,6 +4727,9 @@
             "DZ",
             "EH",
             "ML"
+        ],
+        "nationality": [
+            "Mauritanian"
         ]
     },
     {
@@ -4271,6 +4753,9 @@
         "iso_numeric": "500",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Montserratian"
         ]
     },
     {
@@ -4296,6 +4781,9 @@
         "iso_numeric": "470",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Maltese"
         ]
     },
     {
@@ -4322,6 +4810,9 @@
         "iso_numeric": "480",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Mauritian"
         ]
     },
     {
@@ -4347,6 +4838,9 @@
         "iso_numeric": "462",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Maldivian"
         ]
     },
     {
@@ -4375,6 +4869,9 @@
             "TZ",
             "MZ",
             "ZM"
+        ],
+        "nationality": [
+            "Malawian"
         ]
     },
     {
@@ -4400,6 +4897,9 @@
             "GT",
             "US",
             "BZ"
+        ],
+        "nationality": [
+            "Mexican"
         ]
     },
     {
@@ -4439,6 +4939,9 @@
             "BN",
             "TH",
             "ID"
+        ],
+        "nationality": [
+            "Malaysian"
         ]
     },
     {
@@ -4468,6 +4971,9 @@
             "ZA",
             "ZM",
             "MW"
+        ],
+        "nationality": [
+            "Mozambican"
         ]
     },
     {
@@ -4501,6 +5007,9 @@
             "BW",
             "ZM",
             "AO"
+        ],
+        "nationality": [
+            "Namibian"
         ]
     },
     {
@@ -4524,6 +5033,9 @@
         "iso_numeric": "540",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "New Caledonian"
         ]
     },
     {
@@ -4558,6 +5070,9 @@
             "BF",
             "NG",
             "ML"
+        ],
+        "nationality": [
+            "Nigerien"
         ]
     },
     {
@@ -4581,6 +5096,9 @@
         "iso_numeric": "574",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Norfolk Island"
         ]
     },
     {
@@ -4615,6 +5133,9 @@
             "NE",
             "BJ",
             "CM"
+        ],
+        "nationality": [
+            "Nigerian"
         ]
     },
     {
@@ -4641,6 +5162,9 @@
         "neighbour_countries": [
             "CR",
             "HN"
+        ],
+        "nationality": [
+            "Nicaraguan"
         ]
     },
     {
@@ -4667,6 +5191,10 @@
         "neighbour_countries": [
             "DE",
             "BE"
+        ],
+        "nationality": [
+            "Dutch",
+            "Netherlandic"
         ]
     },
     {
@@ -4700,6 +5228,9 @@
             "FI",
             "RU",
             "SE"
+        ],
+        "nationality": [
+            "Norwegian"
         ]
     },
     {
@@ -4726,6 +5257,10 @@
         "neighbour_countries": [
             "CN",
             "IN"
+        ],
+        "nationality": [
+            "Nepali",
+            "Nepalese"
         ]
     },
     {
@@ -4751,6 +5286,9 @@
         "iso_numeric": "520",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Nauruan"
         ]
     },
     {
@@ -4775,6 +5313,9 @@
         "iso_numeric": "570",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Niuean"
         ]
     },
     {
@@ -4800,6 +5341,10 @@
         "iso_numeric": "554",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "New Zealand",
+            "Kiwi"
         ]
     },
     {
@@ -4830,6 +5375,9 @@
             "SA",
             "YE",
             "AE"
+        ],
+        "nationality": [
+            "Omani"
         ]
     },
     {
@@ -4856,6 +5404,9 @@
         "neighbour_countries": [
             "CR",
             "CO"
+        ],
+        "nationality": [
+            "Panamanian"
         ]
     },
     {
@@ -4887,6 +5438,9 @@
             "BO",
             "BR",
             "CO"
+        ],
+        "nationality": [
+            "Peruvian"
         ]
     },
     {
@@ -4912,6 +5466,9 @@
         "iso_numeric": "258",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "French Polynesian"
         ]
     },
     {
@@ -4939,6 +5496,10 @@
         "iso_numeric": "598",
         "neighbour_countries": [
             "ID"
+        ],
+        "nationality": [
+            "Papua New Guinean",
+            "Papuan"
         ]
     },
     {
@@ -4987,6 +5548,10 @@
         "iso_numeric": "608",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Philippine",
+            "Filipino"
         ]
     },
     {
@@ -5022,6 +5587,9 @@
             "AF",
             "IR",
             "IN"
+        ],
+        "nationality": [
+            "Pakistani"
         ]
     },
     {
@@ -5051,6 +5619,9 @@
             "BY",
             "UA",
             "RU"
+        ],
+        "nationality": [
+            "Polish"
         ]
     },
     {
@@ -5074,6 +5645,9 @@
         "iso_numeric": "666",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Saint-Pierrais or Miquelonnais"
         ]
     },
     {
@@ -5097,6 +5671,9 @@
         "iso_numeric": "612",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Pitcairn Island"
         ]
     },
     {
@@ -5122,6 +5699,9 @@
         "iso_numeric": "630",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Puerto Rican"
         ]
     },
     {
@@ -5147,6 +5727,9 @@
             "JO",
             "IL",
             "EG"
+        ],
+        "nationality": [
+            "Palestinian"
         ]
     },
     {
@@ -5171,6 +5754,9 @@
         "iso_numeric": "620",
         "neighbour_countries": [
             "ES"
+        ],
+        "nationality": [
+            "Portuguese"
         ]
     },
     {
@@ -5202,6 +5788,9 @@
         "iso_numeric": "585",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Palauan"
         ]
     },
     {
@@ -5229,6 +5818,9 @@
             "BO",
             "BR",
             "AR"
+        ],
+        "nationality": [
+            "Paraguayan"
         ]
     },
     {
@@ -5254,6 +5846,9 @@
         "iso_numeric": "634",
         "neighbour_countries": [
             "SA"
+        ],
+        "nationality": [
+            "Qatari"
         ]
     },
     {
@@ -5277,6 +5872,10 @@
         "iso_numeric": "638",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Réunionese",
+            "Réunionnais"
         ]
     },
     {
@@ -5307,6 +5906,9 @@
             "UA",
             "BG",
             "RS"
+        ],
+        "nationality": [
+            "Romanian"
         ]
     },
     {
@@ -5343,6 +5945,9 @@
             "BG",
             "ME",
             "XK"
+        ],
+        "nationality": [
+            "Serbian"
         ]
     },
     {
@@ -5408,6 +6013,9 @@
             "NO",
             "AZ",
             "KP"
+        ],
+        "nationality": [
+            "Russian"
         ]
     },
     {
@@ -5440,6 +6048,9 @@
             "CD",
             "BI",
             "UG"
+        ],
+        "nationality": [
+            "Rwandan"
         ]
     },
     {
@@ -5469,6 +6080,10 @@
             "JO",
             "AE",
             "KW"
+        ],
+        "nationality": [
+            "Saudi",
+            "Saudi Arabian"
         ]
     },
     {
@@ -5493,6 +6108,9 @@
         "iso_numeric": "090",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Solomon Island"
         ]
     },
     {
@@ -5518,6 +6136,9 @@
         "iso_numeric": "690",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Seychellois"
         ]
     },
     {
@@ -5550,6 +6171,9 @@
             "ER",
             "LY",
             "CF"
+        ],
+        "nationality": [
+            "Sudanese"
         ]
     },
     {
@@ -5578,6 +6202,9 @@
             "KE",
             "SD",
             "UG"
+        ],
+        "nationality": [
+            "South Sudanese"
         ]
     },
     {
@@ -5607,6 +6234,9 @@
         "neighbour_countries": [
             "NO",
             "FI"
+        ],
+        "nationality": [
+            "Swedish"
         ]
     },
     {
@@ -5637,6 +6267,9 @@
         "iso_numeric": "702",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Singaporean"
         ]
     },
     {
@@ -5660,6 +6293,9 @@
         "iso_numeric": "654",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Saint Helenian"
         ]
     },
     {
@@ -5687,6 +6323,10 @@
             "IT",
             "HR",
             "AT"
+        ],
+        "nationality": [
+            "Slovenian",
+            "Slovene"
         ]
     },
     {
@@ -5712,6 +6352,9 @@
         "iso_numeric": "744",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Svalbard"
         ]
     },
     {
@@ -5741,6 +6384,9 @@
             "CZ",
             "UA",
             "AT"
+        ],
+        "nationality": [
+            "Slovak"
         ]
     },
     {
@@ -5767,6 +6413,9 @@
         "neighbour_countries": [
             "LR",
             "GN"
+        ],
+        "nationality": [
+            "Sierra Leonean"
         ]
     },
     {
@@ -5790,6 +6439,9 @@
         "iso_numeric": "674",
         "neighbour_countries": [
             "IT"
+        ],
+        "nationality": [
+            "Sammarinese"
         ]
     },
     {
@@ -5821,6 +6473,9 @@
             "GW",
             "GM",
             "ML"
+        ],
+        "nationality": [
+            "Senegalese"
         ]
     },
     {
@@ -5852,6 +6507,10 @@
             "ET",
             "KE",
             "DJ"
+        ],
+        "nationality": [
+            "Somali",
+            "Somalian"
         ]
     },
     {
@@ -5883,6 +6542,9 @@
             "GY",
             "BR",
             "GF"
+        ],
+        "nationality": [
+            "Surinamese"
         ]
     },
     {
@@ -5906,6 +6568,9 @@
         "iso_numeric": "678",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "São Toméan"
         ]
     },
     {
@@ -5930,6 +6595,9 @@
         "neighbour_countries": [
             "GT",
             "HN"
+        ],
+        "nationality": [
+            "Salvadoran"
         ]
     },
     {
@@ -5955,6 +6623,9 @@
         "iso_numeric": "534",
         "neighbour_countries": [
             "MF"
+        ],
+        "nationality": [
+            "Sint Maarten"
         ]
     },
     {
@@ -5991,6 +6662,9 @@
             "IL",
             "TR",
             "LB"
+        ],
+        "nationality": [
+            "Syrian"
         ]
     },
     {
@@ -6017,6 +6691,9 @@
         "neighbour_countries": [
             "ZA",
             "MZ"
+        ],
+        "nationality": [
+            "Swazi"
         ]
     },
     {
@@ -6040,6 +6717,9 @@
         "iso_numeric": "796",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Turks and Caicos Island"
         ]
     },
     {
@@ -6071,6 +6751,9 @@
             "SD",
             "CM",
             "NG"
+        ],
+        "nationality": [
+            "Chadian"
         ]
     },
     {
@@ -6094,6 +6777,9 @@
         "iso_numeric": "260",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "French Southern Territories"
         ]
     },
     {
@@ -6126,6 +6812,9 @@
             "BJ",
             "GH",
             "BF"
+        ],
+        "nationality": [
+            "Togolese"
         ]
     },
     {
@@ -6154,6 +6843,9 @@
             "MM",
             "KH",
             "MY"
+        ],
+        "nationality": [
+            "Thai"
         ]
     },
     {
@@ -6182,6 +6874,9 @@
             "AF",
             "KG",
             "UZ"
+        ],
+        "nationality": [
+            "Tajikistani"
         ]
     },
     {
@@ -6206,6 +6901,9 @@
         "iso_numeric": "772",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Tokelauan"
         ]
     },
     {
@@ -6234,6 +6932,9 @@
         "iso_numeric": "626",
         "neighbour_countries": [
             "ID"
+        ],
+        "nationality": [
+            "Timorese"
         ]
     },
     {
@@ -6264,6 +6965,9 @@
             "IR",
             "UZ",
             "KZ"
+        ],
+        "nationality": [
+            "Turkmen"
         ]
     },
     {
@@ -6290,6 +6994,9 @@
         "neighbour_countries": [
             "DZ",
             "LY"
+        ],
+        "nationality": [
+            "Tunisian"
         ]
     },
     {
@@ -6315,6 +7022,9 @@
         "iso_numeric": "776",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Tongan"
         ]
     },
     {
@@ -6352,6 +7062,9 @@
             "AM",
             "AZ",
             "BG"
+        ],
+        "nationality": [
+            "Turkish"
         ]
     },
     {
@@ -6382,6 +7095,9 @@
         "iso_numeric": "780",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Trinidadian or Tobagonian"
         ]
     },
     {
@@ -6409,6 +7125,9 @@
         "iso_numeric": "798",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Tuvaluan"
         ]
     },
     {
@@ -6436,6 +7155,10 @@
         "iso_numeric": "158",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Chinese",
+            "Taiwanese"
         ]
     },
     {
@@ -6470,6 +7193,9 @@
             "BI",
             "UG",
             "MW"
+        ],
+        "nationality": [
+            "Tanzanian"
         ]
     },
     {
@@ -6506,6 +7232,9 @@
             "BY",
             "RO",
             "RU"
+        ],
+        "nationality": [
+            "Ukrainian"
         ]
     },
     {
@@ -6539,6 +7268,9 @@
             "SS",
             "CD",
             "RW"
+        ],
+        "nationality": [
+            "Ugandan"
         ]
     },
     {
@@ -6562,6 +7294,9 @@
         "iso_numeric": "581",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "American"
         ]
     },
     {
@@ -6592,6 +7327,9 @@
             "CA",
             "MX",
             "CU"
+        ],
+        "nationality": [
+            "American"
         ]
     },
     {
@@ -6616,6 +7354,9 @@
         "neighbour_countries": [
             "BR",
             "AR"
+        ],
+        "nationality": [
+            "Uruguayan"
         ]
     },
     {
@@ -6647,6 +7388,10 @@
             "KG",
             "TJ",
             "KZ"
+        ],
+        "nationality": [
+            "Uzbekistani",
+            "Uzbek"
         ]
     },
     {
@@ -6674,6 +7419,9 @@
         "iso_numeric": "336",
         "neighbour_countries": [
             "IT"
+        ],
+        "nationality": [
+            "Vatican"
         ]
     },
     {
@@ -6699,6 +7447,10 @@
         "iso_numeric": "670",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Saint Vincentian",
+            "Vincentian"
         ]
     },
     {
@@ -6724,6 +7476,9 @@
             "GY",
             "BR",
             "CO"
+        ],
+        "nationality": [
+            "Venezuelan"
         ]
     },
     {
@@ -6747,6 +7502,9 @@
         "iso_numeric": "092",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "British Virgin Island"
         ]
     },
     {
@@ -6770,6 +7528,9 @@
         "iso_numeric": "850",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "U.S. Virgin Island"
         ]
     },
     {
@@ -6803,6 +7564,9 @@
             "CN",
             "LA",
             "KH"
+        ],
+        "nationality": [
+            "Vietnamese"
         ]
     },
     {
@@ -6830,6 +7594,10 @@
         "iso_numeric": "548",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Ni-Vanuatu",
+            "Vanuatuan"
         ]
     },
     {
@@ -6855,6 +7623,10 @@
         "iso_numeric": "876",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Wallis and Futuna",
+            "Wallisian or Futunan"
         ]
     },
     {
@@ -6880,6 +7652,9 @@
         "iso_numeric": "882",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Samoan"
         ]
     },
     {
@@ -6904,6 +7679,9 @@
         "neighbour_countries": [
             "SA",
             "OM"
+        ],
+        "nationality": [
+            "Yemeni"
         ]
     },
     {
@@ -6927,6 +7705,9 @@
         "iso_numeric": "175",
         "neighbour_countries": [
             ""
+        ],
+        "nationality": [
+            "Mahoran"
         ]
     },
     {
@@ -6974,6 +7755,9 @@
             "BW",
             "NA",
             "LS"
+        ],
+        "nationality": [
+            "South African"
         ]
     },
     {
@@ -7010,6 +7794,9 @@
             "NA",
             "MW",
             "AO"
+        ],
+        "nationality": [
+            "Zambian"
         ]
     },
     {
@@ -7042,6 +7829,9 @@
             "MZ",
             "BW",
             "ZM"
+        ],
+        "nationality": [
+            "Zimbabwean"
         ]
     },
     {
@@ -7077,6 +7867,9 @@
             "HR",
             "BA",
             "BG"
+        ],
+        "nationality": [
+            ""
         ]
     },
     {
@@ -7104,6 +7897,9 @@
         "iso_numeric": "530",
         "neighbour_countries": [
             "GP"
+        ],
+        "nationality": [
+            ""
         ]
     }
 ]

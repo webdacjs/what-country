@@ -1,5 +1,6 @@
 const {
   queryCurrency,
+  queryCitizenship,
   queryPhone,
   query
 }= require('./index.js')
@@ -44,9 +45,19 @@ test('Testing query country in German', () => {
   expect(res[0].name).toBe('Ireland')
 })
 
-test('Testing query country in Spanish', () => {
-  const res = query('Irlanda')
+test('Testing query country citizenship', () => {
+  const res = queryCitizenship('Irish')
   expect(res[0].name).toBe('Ireland')
+})
+
+test('Testing query ambigous country citizenship', () => {
+  const res = queryCitizenship('Dominican')
+  expect(res[0].name).toBe('Dominican Republic')
+})
+
+test('Testing query gibberish citizenship', () => {
+  const res = queryCitizenship('asdfasdfasdf')
+  expect(res[0]).toBeUndefined()
 })
 
 test('Testing query country in French', () => {
