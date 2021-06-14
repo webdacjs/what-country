@@ -1,6 +1,6 @@
 {
   "name": "@webdacjs/what-country",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Query country data by name, iso code, tld, currency, citzienship, phone, etc",
   "main": "index.js",
   "scripts": {
