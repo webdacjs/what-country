@@ -45,6 +45,11 @@ test('Testing query country in German', () => {
   expect(res[0].name).toBe('Ireland')
 })
 
+test('Testing query country in Spanish', () => {
+  const res = query('Irlanda')
+  expect(res[0].name).toBe('Ireland')
+})
+
 test('Testing query country citizenship', () => {
   const res = queryCitizenship('Irish')
   expect(res[0].name).toBe('Ireland')
