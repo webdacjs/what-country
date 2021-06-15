@@ -61,6 +61,11 @@ test('Testing query ambigous country citizenship', () => {
   expect(res[0].name).toBe('Dominican Republic')
 })
 
+test('Testing query ambigous country citizenship', () => {
+  const res = queryCitizenship('Chinese')
+  expect(res[0].name).toBe('China')
+})
+
 test('Testing query gibberish citizenship', () => {
   const res = queryCitizenship('asdfasdfasdf')
   expect(res[0]).toBeUndefined()
