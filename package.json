@@ -1,5 +1,5 @@
 {
-  "name": "@webdacjs/what-country",
+  "name": "what-country",
   "version": "1.4.0",
   "description": "Query country data by name, iso code, tld, currency, citzienship, phone, etc",
   "main": "index.js",
@@ -16,9 +16,6 @@
     "tld"
   ],
   "author": "Juan Convers",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/webdacjs"
-  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/webdacjs/what-country/issues"
