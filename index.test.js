@@ -2,7 +2,8 @@ const {
   queryCurrency,
   queryCitizenship,
   queryPhone,
-  query
+  query,
+  queryfuzzy
 }= require('./index.js')
 
 test('Testing query country code', () => {
@@ -68,6 +69,11 @@ test('Testing query gibberish citizenship', () => {
 test('Testing query country in French', () => {
   const res = query('Irlande')
   expect(res[0].name).toBe('Ireland')
+})
+
+test('Testing query fuzzy', () => {
+  const res = queryfuzzy('Chilena')
+  expect(res[0].name).toBe('Chile')
 })
 
 test('Testing query phone', () => {
