@@ -24,7 +24,8 @@
         ],
         "nationality": [
             "Andorran"
-        ]
+        ],
+        "flag_emoji": "🇦🇩"
     },
     {
         "iso": "AE",
@@ -61,7 +62,8 @@
             "Emirati",
             "Emirian",
             "Emiri"
-        ]
+        ],
+        "flag_emoji": "🇦🇪"
     },
     {
         "iso": "AF",
@@ -98,7 +100,8 @@
         ],
         "nationality": [
             "Afghan"
-        ]
+        ],
+        "flag_emoji": "🇦🇫"
     },
     {
         "iso": "AG",
@@ -124,7 +127,8 @@
         ],
         "nationality": [
             "Antiguan or Barbudan"
-        ]
+        ],
+        "flag_emoji": "🇦🇬"
     },
     {
         "iso": "AI",
@@ -150,7 +154,8 @@
         ],
         "nationality": [
             "Anguillan"
-        ]
+        ],
+        "flag_emoji": "🇦🇮"
     },
     {
         "iso": "AL",
@@ -182,7 +187,8 @@
         ],
         "nationality": [
             "Albanian"
-        ]
+        ],
+        "flag_emoji": "🇦🇱"
     },
     {
         "iso": "AM",
@@ -211,7 +217,8 @@
         ],
         "nationality": [
             "Armenian"
-        ]
+        ],
+        "flag_emoji": "🇦🇲"
     },
     {
         "iso": "AO",
@@ -240,7 +247,8 @@
         ],
         "nationality": [
             "Angolan"
-        ]
+        ],
+        "flag_emoji": "🇦🇴"
     },
     {
         "iso": "AQ",
@@ -262,7 +270,8 @@
         ],
         "nationality": [
             "Antarctic"
-        ]
+        ],
+        "flag_emoji": "🇦🇶"
     },
     {
         "iso": "AR",
@@ -302,7 +311,8 @@
         ],
         "nationality": [
             "Argentine"
-        ]
+        ],
+        "flag_emoji": "🇦🇷"
     },
     {
         "iso": "AS",
@@ -332,7 +342,8 @@
         ],
         "nationality": [
             "American Samoan"
-        ]
+        ],
+        "flag_emoji": "🇦🇸"
     },
     {
         "iso": "AT",
@@ -371,7 +382,8 @@
         ],
         "nationality": [
             "Austrian"
-        ]
+        ],
+        "flag_emoji": "🇦🇹"
     },
     {
         "iso": "AU",
@@ -397,7 +409,8 @@
         ],
         "nationality": [
             "Australian"
-        ]
+        ],
+        "flag_emoji": "🇦🇺"
     },
     {
         "iso": "AW",
@@ -428,7 +441,8 @@
         ],
         "nationality": [
             "Aruban"
-        ]
+        ],
+        "flag_emoji": "🇦🇼"
     },
     {
         "iso": "AX",
@@ -454,7 +468,8 @@
         ],
         "nationality": [
             "Åland Island"
-        ]
+        ],
+        "flag_emoji": "🇦🇽"
     },
     {
         "iso": "AZ",
@@ -489,7 +504,8 @@
         "nationality": [
             "Azerbaijani",
             "Azeri"
-        ]
+        ],
+        "flag_emoji": "🇦🇿"
     },
     {
         "iso": "BA",
@@ -521,7 +537,8 @@
         ],
         "nationality": [
             "Bosnian or Herzegovinian"
-        ]
+        ],
+        "flag_emoji": "🇧🇦"
     },
     {
         "iso": "BB",
@@ -547,7 +564,8 @@
         ],
         "nationality": [
             "Barbadian"
-        ]
+        ],
+        "flag_emoji": "🇧🇧"
     },
     {
         "iso": "BD",
@@ -576,7 +594,8 @@
         ],
         "nationality": [
             "Bangladeshi"
-        ]
+        ],
+        "flag_emoji": "🇧🇩"
     },
     {
         "iso": "BE",
@@ -609,7 +628,8 @@
         ],
         "nationality": [
             "Belgian"
-        ]
+        ],
+        "flag_emoji": "🇧🇪"
     },
     {
         "iso": "BF",
@@ -641,7 +661,8 @@
         ],
         "nationality": [
             "Burkinabé"
-        ]
+        ],
+        "flag_emoji": "🇧🇫"
     },
     {
         "iso": "BG",
@@ -674,7 +695,8 @@
         ],
         "nationality": [
             "Bulgarian"
-        ]
+        ],
+        "flag_emoji": "🇧🇬"
     },
     {
         "iso": "BH",
@@ -706,7 +728,8 @@
         ],
         "nationality": [
             "Bahraini"
-        ]
+        ],
+        "flag_emoji": "🇧🇭"
     },
     {
         "iso": "BI",
@@ -736,7 +759,8 @@
         ],
         "nationality": [
             "Burundian"
-        ]
+        ],
+        "flag_emoji": "🇧🇮"
     },
     {
         "iso": "BJ",
@@ -766,7 +790,8 @@
         "nationality": [
             "Beninese",
             "Beninois"
-        ]
+        ],
+        "flag_emoji": "🇧🇯"
     },
     {
         "iso": "BL",
@@ -792,7 +817,8 @@
         ],
         "nationality": [
             "Barthélemois"
-        ]
+        ],
+        "flag_emoji": "🇧🇱"
     },
     {
         "iso": "BM",
@@ -821,7 +847,8 @@
         "nationality": [
             "Bermudian",
             "Bermudan"
-        ]
+        ],
+        "flag_emoji": "🇧🇲"
     },
     {
         "iso": "BN",
@@ -849,7 +876,8 @@
         ],
         "nationality": [
             "Bruneian"
-        ]
+        ],
+        "flag_emoji": "🇧🇳"
     },
     {
         "iso": "BO",
@@ -883,7 +911,8 @@
         ],
         "nationality": [
             "Bolivian"
-        ]
+        ],
+        "flag_emoji": "🇧🇴"
     },
     {
         "iso": "BQ",
@@ -912,7 +941,8 @@
         ],
         "nationality": [
             "Bonaire"
-        ]
+        ],
+        "flag_emoji": "🇧🇶"
     },
     {
         "iso": "BR",
@@ -953,7 +983,8 @@
         ],
         "nationality": [
             "Brazilian"
-        ]
+        ],
+        "flag_emoji": "🇧🇷"
     },
     {
         "iso": "BS",
@@ -979,7 +1010,8 @@
         ],
         "nationality": [
             "Bahamian"
-        ]
+        ],
+        "flag_emoji": "🇧🇸"
     },
     {
         "iso": "BT",
@@ -1006,7 +1038,8 @@
         ],
         "nationality": [
             "Bhutanese"
-        ]
+        ],
+        "flag_emoji": "🇧🇹"
     },
     {
         "iso": "BV",
@@ -1028,7 +1061,8 @@
         ],
         "nationality": [
             "Bouvet Island"
-        ]
+        ],
+        "flag_emoji": "🇧🇻"
     },
     {
         "iso": "BW",
@@ -1059,7 +1093,8 @@
         "nationality": [
             "Motswana",
             "Botswanan"
-        ]
+        ],
+        "flag_emoji": "🇧🇼"
     },
     {
         "iso": "BY",
@@ -1091,7 +1126,8 @@
         ],
         "nationality": [
             "Belarusian"
-        ]
+        ],
+        "flag_emoji": "🇧🇾"
     },
     {
         "iso": "BZ",
@@ -1120,7 +1156,8 @@
         ],
         "nationality": [
             "Belizean"
-        ]
+        ],
+        "flag_emoji": "🇧🇿"
     },
     {
         "iso": "CA",
@@ -1150,7 +1187,8 @@
         ],
         "nationality": [
             "Canadian"
-        ]
+        ],
+        "flag_emoji": "🇨🇦"
     },
     {
         "iso": "CC",
@@ -1178,7 +1216,8 @@
         ],
         "nationality": [
             "Cocos Island"
-        ]
+        ],
+        "flag_emoji": "🇨🇨"
     },
     {
         "iso": "CD",
@@ -1220,7 +1259,8 @@
         ],
         "nationality": [
             "Congolese"
-        ]
+        ],
+        "flag_emoji": "🇨🇩"
     },
     {
         "iso": "CF",
@@ -1257,7 +1297,8 @@
         ],
         "nationality": [
             "Central African"
-        ]
+        ],
+        "flag_emoji": "🇨🇫"
     },
     {
         "iso": "CG",
@@ -1291,7 +1332,8 @@
         ],
         "nationality": [
             "Congolese"
-        ]
+        ],
+        "flag_emoji": "🇨🇬"
     },
     {
         "iso": "CH",
@@ -1327,7 +1369,8 @@
         ],
         "nationality": [
             "Swiss"
-        ]
+        ],
+        "flag_emoji": "🇨🇭"
     },
     {
         "iso": "CI",
@@ -1357,7 +1400,8 @@
         ],
         "nationality": [
             "Ivorian"
-        ]
+        ],
+        "flag_emoji": "🇨🇮"
     },
     {
         "iso": "CK",
@@ -1385,7 +1429,8 @@
         ],
         "nationality": [
             "Cook Island"
-        ]
+        ],
+        "flag_emoji": "🇨🇰"
     },
     {
         "iso": "CL",
@@ -1413,7 +1458,8 @@
         ],
         "nationality": [
             "Chilean"
-        ]
+        ],
+        "flag_emoji": "🇨🇱"
     },
     {
         "iso": "CM",
@@ -1446,7 +1492,8 @@
         ],
         "nationality": [
             "Cameroonian"
-        ]
+        ],
+        "flag_emoji": "🇨🇲"
     },
     {
         "iso": "CN",
@@ -1492,7 +1539,8 @@
         ],
         "nationality": [
             "Chinese"
-        ]
+        ],
+        "flag_emoji": "🇨🇳"
     },
     {
         "iso": "CO",
@@ -1522,7 +1570,8 @@
         ],
         "nationality": [
             "Colombian"
-        ]
+        ],
+        "flag_emoji": "🇨🇴"
     },
     {
         "iso": "CR",
@@ -1551,7 +1600,8 @@
         ],
         "nationality": [
             "Costa Rican"
-        ]
+        ],
+        "flag_emoji": "🇨🇷"
     },
     {
         "iso": "CU",
@@ -1578,7 +1628,8 @@
         ],
         "nationality": [
             "Cuban"
-        ]
+        ],
+        "flag_emoji": "🇨🇺"
     },
     {
         "iso": "CV",
@@ -1604,7 +1655,8 @@
         ],
         "nationality": [
             "Cabo Verdean"
-        ]
+        ],
+        "flag_emoji": "🇨🇻"
     },
     {
         "iso": "CW",
@@ -1631,7 +1683,8 @@
         ],
         "nationality": [
             "Curaçaoan"
-        ]
+        ],
+        "flag_emoji": "🇨🇼"
     },
     {
         "iso": "CX",
@@ -1661,7 +1714,8 @@
         ],
         "nationality": [
             "Christmas Island"
-        ]
+        ],
+        "flag_emoji": "🇨🇽"
     },
     {
         "iso": "CY",
@@ -1691,7 +1745,8 @@
         ],
         "nationality": [
             "Cypriot"
-        ]
+        ],
+        "flag_emoji": "🇨🇾"
     },
     {
         "iso": "CZ",
@@ -1722,7 +1777,8 @@
         ],
         "nationality": [
             "Czech"
-        ]
+        ],
+        "flag_emoji": "🇨🇿"
     },
     {
         "iso": "DE",
@@ -1756,7 +1812,8 @@
         ],
         "nationality": [
             "German"
-        ]
+        ],
+        "flag_emoji": "🇩🇪"
     },
     {
         "iso": "DJ",
@@ -1790,7 +1847,8 @@
         ],
         "nationality": [
             "Djiboutian"
-        ]
+        ],
+        "flag_emoji": "🇩🇯"
     },
     {
         "iso": "DK",
@@ -1822,7 +1880,8 @@
         ],
         "nationality": [
             "Danish"
-        ]
+        ],
+        "flag_emoji": "🇩🇰"
     },
     {
         "iso": "DM",
@@ -1848,7 +1907,8 @@
         ],
         "nationality": [
             "Dominican"
-        ]
+        ],
+        "flag_emoji": "🇩🇲"
     },
     {
         "iso": "DO",
@@ -1874,7 +1934,8 @@
         ],
         "nationality": [
             "Dominican"
-        ]
+        ],
+        "flag_emoji": "🇩🇴"
     },
     {
         "iso": "DZ",
@@ -1906,7 +1967,8 @@
         ],
         "nationality": [
             "Algerian"
-        ]
+        ],
+        "flag_emoji": "🇩🇿"
     },
     {
         "iso": "EC",
@@ -1933,7 +1995,8 @@
         ],
         "nationality": [
             "Ecuadorian"
-        ]
+        ],
+        "flag_emoji": "🇪🇨"
     },
     {
         "iso": "EE",
@@ -1962,7 +2025,8 @@
         ],
         "nationality": [
             "Estonian"
-        ]
+        ],
+        "flag_emoji": "🇪🇪"
     },
     {
         "iso": "EG",
@@ -1995,7 +2059,8 @@
         ],
         "nationality": [
             "Egyptian"
-        ]
+        ],
+        "flag_emoji": "🇪🇬"
     },
     {
         "iso": "EH",
@@ -2026,7 +2091,8 @@
             "Sahrawi",
             "Sahrawian",
             "Sahraouian"
-        ]
+        ],
+        "flag_emoji": "🇪🇭"
     },
     {
         "iso": "ER",
@@ -2060,7 +2126,8 @@
         ],
         "nationality": [
             "Eritrean"
-        ]
+        ],
+        "flag_emoji": "🇪🇷"
     },
     {
         "iso": "ES",
@@ -2098,7 +2165,8 @@
         ],
         "nationality": [
             "Spanish"
-        ]
+        ],
+        "flag_emoji": "🇪🇸"
     },
     {
         "iso": "ET",
@@ -2138,7 +2206,8 @@
         ],
         "nationality": [
             "Ethiopian"
-        ]
+        ],
+        "flag_emoji": "🇪🇹"
     },
     {
         "iso": "FI",
@@ -2169,7 +2238,8 @@
         ],
         "nationality": [
             "Finnish"
-        ]
+        ],
+        "flag_emoji": "🇫🇮"
     },
     {
         "iso": "FJ",
@@ -2197,7 +2267,8 @@
         ],
         "nationality": [
             "Fijian"
-        ]
+        ],
+        "flag_emoji": "🇫🇯"
     },
     {
         "iso": "FK",
@@ -2223,7 +2294,8 @@
         ],
         "nationality": [
             "Falkland Island"
-        ]
+        ],
+        "flag_emoji": "🇫🇰"
     },
     {
         "iso": "FM",
@@ -2257,7 +2329,8 @@
         ],
         "nationality": [
             "Micronesian"
-        ]
+        ],
+        "flag_emoji": "🇫🇲"
     },
     {
         "iso": "FO",
@@ -2285,7 +2358,8 @@
         ],
         "nationality": [
             "Faroese"
-        ]
+        ],
+        "flag_emoji": "🇫🇴"
     },
     {
         "iso": "FR",
@@ -2329,7 +2403,8 @@
         ],
         "nationality": [
             "French"
-        ]
+        ],
+        "flag_emoji": "🇫🇷"
     },
     {
         "iso": "GA",
@@ -2357,7 +2432,8 @@
         ],
         "nationality": [
             "Gabonese"
-        ]
+        ],
+        "flag_emoji": "🇬🇦"
     },
     {
         "iso": "GB",
@@ -2388,7 +2464,8 @@
         "nationality": [
             "British",
             "UK"
-        ]
+        ],
+        "flag_emoji": "🇬🇧"
     },
     {
         "iso": "GD",
@@ -2414,7 +2491,8 @@
         ],
         "nationality": [
             "Grenadian"
-        ]
+        ],
+        "flag_emoji": "🇬🇩"
     },
     {
         "iso": "GE",
@@ -2449,7 +2527,8 @@
         ],
         "nationality": [
             "Georgian"
-        ]
+        ],
+        "flag_emoji": "🇬🇪"
     },
     {
         "iso": "GF",
@@ -2476,7 +2555,8 @@
         ],
         "nationality": [
             "French Guianese"
-        ]
+        ],
+        "flag_emoji": "🇬🇫"
     },
     {
         "iso": "GG",
@@ -2503,7 +2583,8 @@
         ],
         "nationality": [
             "Channel Island"
-        ]
+        ],
+        "flag_emoji": "🇬🇬"
     },
     {
         "iso": "GH",
@@ -2537,7 +2618,8 @@
         ],
         "nationality": [
             "Ghanaian"
-        ]
+        ],
+        "flag_emoji": "🇬🇭"
     },
     {
         "iso": "GI",
@@ -2569,7 +2651,8 @@
         ],
         "nationality": [
             "Gibraltar"
-        ]
+        ],
+        "flag_emoji": "🇬🇮"
     },
     {
         "iso": "GL",
@@ -2599,7 +2682,8 @@
         ],
         "nationality": [
             "Greenlandic"
-        ]
+        ],
+        "flag_emoji": "🇬🇱"
     },
     {
         "iso": "GM",
@@ -2631,7 +2715,8 @@
         ],
         "nationality": [
             "Gambian"
-        ]
+        ],
+        "flag_emoji": "🇬🇲"
     },
     {
         "iso": "GN",
@@ -2662,7 +2747,8 @@
         ],
         "nationality": [
             "Guinean"
-        ]
+        ],
+        "flag_emoji": "🇬🇳"
     },
     {
         "iso": "GP",
@@ -2688,7 +2774,8 @@
         ],
         "nationality": [
             "Guadeloupe"
-        ]
+        ],
+        "flag_emoji": "🇬🇵"
     },
     {
         "iso": "GQ",
@@ -2718,7 +2805,8 @@
         "nationality": [
             "Equatorial Guinean",
             "Equatoguinean"
-        ]
+        ],
+        "flag_emoji": "🇬🇶"
     },
     {
         "iso": "GR",
@@ -2752,7 +2840,8 @@
         "nationality": [
             "Greek",
             "Hellenic"
-        ]
+        ],
+        "flag_emoji": "🇬🇷"
     },
     {
         "iso": "GS",
@@ -2778,7 +2867,8 @@
         ],
         "nationality": [
             "South Georgia or South Sandwich Islands"
-        ]
+        ],
+        "flag_emoji": "🇬🇸"
     },
     {
         "iso": "GT",
@@ -2807,7 +2897,8 @@
         ],
         "nationality": [
             "Guatemalan"
-        ]
+        ],
+        "flag_emoji": "🇬🇹"
     },
     {
         "iso": "GU",
@@ -2836,7 +2927,8 @@
         "nationality": [
             "Guamanian",
             "Guambat"
-        ]
+        ],
+        "flag_emoji": "🇬🇺"
     },
     {
         "iso": "GW",
@@ -2864,7 +2956,8 @@
         ],
         "nationality": [
             "Bissau-Guinean"
-        ]
+        ],
+        "flag_emoji": "🇬🇼"
     },
     {
         "iso": "GY",
@@ -2892,7 +2985,8 @@
         ],
         "nationality": [
             "Guyanese"
-        ]
+        ],
+        "flag_emoji": "🇬🇾"
     },
     {
         "iso": "HK",
@@ -2924,7 +3018,8 @@
         "nationality": [
             "Hong Kong",
             "Hong Kongese"
-        ]
+        ],
+        "flag_emoji": "🇭🇰"
     },
     {
         "iso": "HM",
@@ -2946,7 +3041,8 @@
         ],
         "nationality": [
             "Heard Island or McDonald Islands"
-        ]
+        ],
+        "flag_emoji": "🇭🇲"
     },
     {
         "iso": "HN",
@@ -2976,7 +3072,8 @@
         ],
         "nationality": [
             "Honduran"
-        ]
+        ],
+        "flag_emoji": "🇭🇳"
     },
     {
         "iso": "HR",
@@ -3008,7 +3105,8 @@
         ],
         "nationality": [
             "Croatian"
-        ]
+        ],
+        "flag_emoji": "🇭🇷"
     },
     {
         "iso": "HT",
@@ -3036,7 +3134,8 @@
         ],
         "nationality": [
             "Haitian"
-        ]
+        ],
+        "flag_emoji": "🇭🇹"
     },
     {
         "iso": "HU",
@@ -3069,7 +3168,8 @@
         "nationality": [
             "Hungarian",
             "Magyar"
-        ]
+        ],
+        "flag_emoji": "🇭🇺"
     },
     {
         "iso": "ID",
@@ -3103,7 +3203,8 @@
         ],
         "nationality": [
             "Indonesian"
-        ]
+        ],
+        "flag_emoji": "🇮🇩"
     },
     {
         "iso": "IE",
@@ -3131,7 +3232,8 @@
         ],
         "nationality": [
             "Irish"
-        ]
+        ],
+        "flag_emoji": "🇮🇪"
     },
     {
         "iso": "IL",
@@ -3165,7 +3267,8 @@
         ],
         "nationality": [
             "Israeli"
-        ]
+        ],
+        "flag_emoji": "🇮🇱"
     },
     {
         "iso": "IM",
@@ -3193,7 +3296,8 @@
         ],
         "nationality": [
             "Manx"
-        ]
+        ],
+        "flag_emoji": "🇮🇲"
     },
     {
         "iso": "IN",
@@ -3267,7 +3371,8 @@
         ],
         "nationality": [
             "Indian"
-        ]
+        ],
+        "flag_emoji": "🇮🇳"
     },
     {
         "iso": "IO",
@@ -3293,7 +3398,8 @@
         ],
         "nationality": [
             "BIOT"
-        ]
+        ],
+        "flag_emoji": "🇮🇴"
     },
     {
         "iso": "IQ",
@@ -3328,7 +3434,8 @@
         ],
         "nationality": [
             "Iraqi"
-        ]
+        ],
+        "flag_emoji": "🇮🇶"
     },
     {
         "iso": "IR",
@@ -3363,7 +3470,8 @@
         "nationality": [
             "Iranian",
             "Persian"
-        ]
+        ],
+        "flag_emoji": "🇮🇷"
     },
     {
         "iso": "IS",
@@ -3399,7 +3507,8 @@
         ],
         "nationality": [
             "Icelandic"
-        ]
+        ],
+        "flag_emoji": "🇮🇸"
     },
     {
         "iso": "IT",
@@ -3442,7 +3551,8 @@
         ],
         "nationality": [
             "Italian"
-        ]
+        ],
+        "flag_emoji": "🇮🇹"
     },
     {
         "iso": "JE",
@@ -3471,7 +3581,8 @@
         ],
         "nationality": [
             "Channel Island"
-        ]
+        ],
+        "flag_emoji": "🇯🇪"
     },
     {
         "iso": "JM",
@@ -3497,7 +3608,8 @@
         ],
         "nationality": [
             "Jamaican"
-        ]
+        ],
+        "flag_emoji": "🇯🇲"
     },
     {
         "iso": "JO",
@@ -3529,7 +3641,8 @@
         ],
         "nationality": [
             "Jordanian"
-        ]
+        ],
+        "flag_emoji": "🇯🇴"
     },
     {
         "iso": "JP",
@@ -3555,7 +3668,8 @@
         ],
         "nationality": [
             "Japanese"
-        ]
+        ],
+        "flag_emoji": "🇯🇵"
     },
     {
         "iso": "KE",
@@ -3587,7 +3701,8 @@
         ],
         "nationality": [
             "Kenyan"
-        ]
+        ],
+        "flag_emoji": "🇰🇪"
     },
     {
         "iso": "KG",
@@ -3623,7 +3738,8 @@
             "Kyrgyz",
             "Kirgiz",
             "Kirghiz"
-        ]
+        ],
+        "flag_emoji": "🇰🇬"
     },
     {
         "iso": "KH",
@@ -3655,7 +3771,8 @@
         ],
         "nationality": [
             "Cambodian"
-        ]
+        ],
+        "flag_emoji": "🇰🇭"
     },
     {
         "iso": "KI",
@@ -3682,7 +3799,8 @@
         ],
         "nationality": [
             "I-Kiribati"
-        ]
+        ],
+        "flag_emoji": "🇰🇮"
     },
     {
         "iso": "KM",
@@ -3711,7 +3829,8 @@
         "nationality": [
             "Comoran",
             "Comorian"
-        ]
+        ],
+        "flag_emoji": "🇰🇲"
     },
     {
         "iso": "KN",
@@ -3737,7 +3856,8 @@
         ],
         "nationality": [
             "Kittitian or Nevisian"
-        ]
+        ],
+        "flag_emoji": "🇰🇳"
     },
     {
         "iso": "KP",
@@ -3765,7 +3885,8 @@
         ],
         "nationality": [
             "North Korean"
-        ]
+        ],
+        "flag_emoji": "🇰🇵"
     },
     {
         "iso": "KR",
@@ -3793,7 +3914,8 @@
         ],
         "nationality": [
             "South Korean"
-        ]
+        ],
+        "flag_emoji": "🇰🇷"
     },
     {
         "iso": "XK",
@@ -3824,7 +3946,8 @@
         ],
         "nationality": [
             "Kosovar"
-        ]
+        ],
+        "flag_emoji": "🇽🇰"
     },
     {
         "iso": "KW",
@@ -3853,7 +3976,8 @@
         ],
         "nationality": [
             "Kuwaiti"
-        ]
+        ],
+        "flag_emoji": "🇰🇼"
     },
     {
         "iso": "KY",
@@ -3879,7 +4003,8 @@
         ],
         "nationality": [
             "Caymanian"
-        ]
+        ],
+        "flag_emoji": "🇰🇾"
     },
     {
         "iso": "KZ",
@@ -3912,7 +4037,8 @@
         "nationality": [
             "Kazakhstani",
             "Kazakh"
-        ]
+        ],
+        "flag_emoji": "🇰🇿"
     },
     {
         "iso": "LA",
@@ -3947,7 +4073,8 @@
         "nationality": [
             "Lao",
             "Laotian"
-        ]
+        ],
+        "flag_emoji": "🇱🇦"
     },
     {
         "iso": "LB",
@@ -3980,7 +4107,8 @@
         ],
         "nationality": [
             "Lebanese"
-        ]
+        ],
+        "flag_emoji": "🇱🇧"
     },
     {
         "iso": "LC",
@@ -4006,7 +4134,8 @@
         ],
         "nationality": [
             "Saint Lucian"
-        ]
+        ],
+        "flag_emoji": "🇱🇨"
     },
     {
         "iso": "LI",
@@ -4033,7 +4162,8 @@
         ],
         "nationality": [
             "Liechtenstein"
-        ]
+        ],
+        "flag_emoji": "🇱🇮"
     },
     {
         "iso": "LK",
@@ -4063,7 +4193,8 @@
         ],
         "nationality": [
             "Sri Lankan"
-        ]
+        ],
+        "flag_emoji": "🇱🇰"
     },
     {
         "iso": "LR",
@@ -4091,7 +4222,8 @@
         ],
         "nationality": [
             "Liberian"
-        ]
+        ],
+        "flag_emoji": "🇱🇷"
     },
     {
         "iso": "LS",
@@ -4123,7 +4255,8 @@
         ],
         "nationality": [
             "Basotho"
-        ]
+        ],
+        "flag_emoji": "🇱🇸"
     },
     {
         "iso": "LT",
@@ -4156,7 +4289,8 @@
         ],
         "nationality": [
             "Lithuanian"
-        ]
+        ],
+        "flag_emoji": "🇱🇹"
     },
     {
         "iso": "LU",
@@ -4189,7 +4323,8 @@
         "nationality": [
             "Luxembourg",
             "Luxembourgish"
-        ]
+        ],
+        "flag_emoji": "🇱🇺"
     },
     {
         "iso": "LV",
@@ -4222,7 +4357,8 @@
         ],
         "nationality": [
             "Latvian"
-        ]
+        ],
+        "flag_emoji": "🇱🇻"
     },
     {
         "iso": "LY",
@@ -4257,7 +4393,8 @@
         ],
         "nationality": [
             "Libyan"
-        ]
+        ],
+        "flag_emoji": "🇱🇾"
     },
     {
         "iso": "MA",
@@ -4288,7 +4425,8 @@
         ],
         "nationality": [
             "Moroccan"
-        ]
+        ],
+        "flag_emoji": "🇲🇦"
     },
     {
         "iso": "MC",
@@ -4319,7 +4457,8 @@
         "nationality": [
             "Monégasque",
             "Monacan"
-        ]
+        ],
+        "flag_emoji": "🇲🇨"
     },
     {
         "iso": "MD",
@@ -4351,7 +4490,8 @@
         ],
         "nationality": [
             "Moldovan"
-        ]
+        ],
+        "flag_emoji": "🇲🇩"
     },
     {
         "iso": "ME",
@@ -4390,7 +4530,8 @@
         ],
         "nationality": [
             "Montenegrin"
-        ]
+        ],
+        "flag_emoji": "🇲🇪"
     },
     {
         "iso": "MF",
@@ -4416,7 +4557,8 @@
         ],
         "nationality": [
             "Saint-Martinoise"
-        ]
+        ],
+        "flag_emoji": "🇲🇫"
     },
     {
         "iso": "MG",
@@ -4444,7 +4586,8 @@
         ],
         "nationality": [
             "Malagasy"
-        ]
+        ],
+        "flag_emoji": "🇲🇬"
     },
     {
         "iso": "MH",
@@ -4472,7 +4615,8 @@
         ],
         "nationality": [
             "Marshallese"
-        ]
+        ],
+        "flag_emoji": "🇲🇭"
     },
     {
         "iso": "MK",
@@ -4509,7 +4653,8 @@
         ],
         "nationality": [
             "Macedonian"
-        ]
+        ],
+        "flag_emoji": "🇲🇰"
     },
     {
         "iso": "ML",
@@ -4544,7 +4689,8 @@
         "nationality": [
             "Malian",
             "Malinese"
-        ]
+        ],
+        "flag_emoji": "🇲🇱"
     },
     {
         "iso": "MM",
@@ -4574,7 +4720,8 @@
         ],
         "nationality": [
             "Burmese"
-        ]
+        ],
+        "flag_emoji": "🇲🇲"
     },
     {
         "iso": "MN",
@@ -4603,7 +4750,8 @@
         ],
         "nationality": [
             "Mongolian"
-        ]
+        ],
+        "flag_emoji": "🇲🇳"
     },
     {
         "iso": "MO",
@@ -4634,7 +4782,8 @@
         "nationality": [
             "Macanese",
             "Chinese"
-        ]
+        ],
+        "flag_emoji": "🇲🇴"
     },
     {
         "iso": "MP",
@@ -4667,7 +4816,8 @@
         ],
         "nationality": [
             "Northern Marianan"
-        ]
+        ],
+        "flag_emoji": "🇲🇵"
     },
     {
         "iso": "MQ",
@@ -4694,7 +4844,8 @@
         "nationality": [
             "Martiniquais",
             "Martinican"
-        ]
+        ],
+        "flag_emoji": "🇲🇶"
     },
     {
         "iso": "MR",
@@ -4730,7 +4881,8 @@
         ],
         "nationality": [
             "Mauritanian"
-        ]
+        ],
+        "flag_emoji": "🇲🇷"
     },
     {
         "iso": "MS",
@@ -4756,7 +4908,8 @@
         ],
         "nationality": [
             "Montserratian"
-        ]
+        ],
+        "flag_emoji": "🇲🇸"
     },
     {
         "iso": "MT",
@@ -4784,7 +4937,8 @@
         ],
         "nationality": [
             "Maltese"
-        ]
+        ],
+        "flag_emoji": "🇲🇹"
     },
     {
         "iso": "MU",
@@ -4813,7 +4967,8 @@
         ],
         "nationality": [
             "Mauritian"
-        ]
+        ],
+        "flag_emoji": "🇲🇺"
     },
     {
         "iso": "MV",
@@ -4841,7 +4996,8 @@
         ],
         "nationality": [
             "Maldivian"
-        ]
+        ],
+        "flag_emoji": "🇲🇻"
     },
     {
         "iso": "MW",
@@ -4872,7 +5028,8 @@
         ],
         "nationality": [
             "Malawian"
-        ]
+        ],
+        "flag_emoji": "🇲🇼"
     },
     {
         "iso": "MX",
@@ -4900,7 +5057,8 @@
         ],
         "nationality": [
             "Mexican"
-        ]
+        ],
+        "flag_emoji": "🇲🇽"
     },
     {
         "iso": "MY",
@@ -4942,7 +5100,8 @@
         ],
         "nationality": [
             "Malaysian"
-        ]
+        ],
+        "flag_emoji": "🇲🇾"
     },
     {
         "iso": "MZ",
@@ -4974,7 +5133,8 @@
         ],
         "nationality": [
             "Mozambican"
-        ]
+        ],
+        "flag_emoji": "🇲🇿"
     },
     {
         "iso": "NA",
@@ -5010,7 +5170,8 @@
         ],
         "nationality": [
             "Namibian"
-        ]
+        ],
+        "flag_emoji": "🇳🇦"
     },
     {
         "iso": "NC",
@@ -5036,7 +5197,8 @@
         ],
         "nationality": [
             "New Caledonian"
-        ]
+        ],
+        "flag_emoji": "🇳🇨"
     },
     {
         "iso": "NE",
@@ -5073,7 +5235,8 @@
         ],
         "nationality": [
             "Nigerien"
-        ]
+        ],
+        "flag_emoji": "🇳🇪"
     },
     {
         "iso": "NF",
@@ -5099,7 +5262,8 @@
         ],
         "nationality": [
             "Norfolk Island"
-        ]
+        ],
+        "flag_emoji": "🇳🇫"
     },
     {
         "iso": "NG",
@@ -5136,7 +5300,8 @@
         ],
         "nationality": [
             "Nigerian"
-        ]
+        ],
+        "flag_emoji": "🇳🇬"
     },
     {
         "iso": "NI",
@@ -5165,7 +5330,8 @@
         ],
         "nationality": [
             "Nicaraguan"
-        ]
+        ],
+        "flag_emoji": "🇳🇮"
     },
     {
         "iso": "NL",
@@ -5195,7 +5361,8 @@
         "nationality": [
             "Dutch",
             "Netherlandic"
-        ]
+        ],
+        "flag_emoji": "🇳🇱"
     },
     {
         "iso": "NO",
@@ -5231,7 +5398,8 @@
         ],
         "nationality": [
             "Norwegian"
-        ]
+        ],
+        "flag_emoji": "🇳🇴"
     },
     {
         "iso": "NP",
@@ -5261,7 +5429,8 @@
         "nationality": [
             "Nepali",
             "Nepalese"
-        ]
+        ],
+        "flag_emoji": "🇳🇵"
     },
     {
         "iso": "NR",
@@ -5289,7 +5458,8 @@
         ],
         "nationality": [
             "Nauruan"
-        ]
+        ],
+        "flag_emoji": "🇳🇷"
     },
     {
         "iso": "NU",
@@ -5316,7 +5486,8 @@
         ],
         "nationality": [
             "Niuean"
-        ]
+        ],
+        "flag_emoji": "🇳🇺"
     },
     {
         "iso": "NZ",
@@ -5345,7 +5516,8 @@
         "nationality": [
             "New Zealand",
             "Kiwi"
-        ]
+        ],
+        "flag_emoji": "🇳🇿"
     },
     {
         "iso": "OM",
@@ -5378,7 +5550,8 @@
         ],
         "nationality": [
             "Omani"
-        ]
+        ],
+        "flag_emoji": "🇴🇲"
     },
     {
         "iso": "PA",
@@ -5407,7 +5580,8 @@
         ],
         "nationality": [
             "Panamanian"
-        ]
+        ],
+        "flag_emoji": "🇵🇦"
     },
     {
         "iso": "PE",
@@ -5441,7 +5615,8 @@
         ],
         "nationality": [
             "Peruvian"
-        ]
+        ],
+        "flag_emoji": "🇵🇪"
     },
     {
         "iso": "PF",
@@ -5469,7 +5644,8 @@
         ],
         "nationality": [
             "French Polynesian"
-        ]
+        ],
+        "flag_emoji": "🇵🇫"
     },
     {
         "iso": "PG",
@@ -5500,7 +5676,8 @@
         "nationality": [
             "Papua New Guinean",
             "Papuan"
-        ]
+        ],
+        "flag_emoji": "🇵🇬"
     },
     {
         "iso": "PH",
@@ -5552,7 +5729,8 @@
         "nationality": [
             "Philippine",
             "Filipino"
-        ]
+        ],
+        "flag_emoji": "🇵🇭"
     },
     {
         "iso": "PK",
@@ -5590,7 +5768,8 @@
         ],
         "nationality": [
             "Pakistani"
-        ]
+        ],
+        "flag_emoji": "🇵🇰"
     },
     {
         "iso": "PL",
@@ -5622,7 +5801,8 @@
         ],
         "nationality": [
             "Polish"
-        ]
+        ],
+        "flag_emoji": "🇵🇱"
     },
     {
         "iso": "PM",
@@ -5648,7 +5828,8 @@
         ],
         "nationality": [
             "Saint-Pierrais or Miquelonnais"
-        ]
+        ],
+        "flag_emoji": "🇵🇲"
     },
     {
         "iso": "PN",
@@ -5674,7 +5855,8 @@
         ],
         "nationality": [
             "Pitcairn Island"
-        ]
+        ],
+        "flag_emoji": "🇵🇳"
     },
     {
         "iso": "PR",
@@ -5702,7 +5884,8 @@
         ],
         "nationality": [
             "Puerto Rican"
-        ]
+        ],
+        "flag_emoji": "🇵🇷"
     },
     {
         "iso": "PS",
@@ -5730,7 +5913,8 @@
         ],
         "nationality": [
             "Palestinian"
-        ]
+        ],
+        "flag_emoji": "🇵🇸"
     },
     {
         "iso": "PT",
@@ -5757,7 +5941,8 @@
         ],
         "nationality": [
             "Portuguese"
-        ]
+        ],
+        "flag_emoji": "🇵🇹"
     },
     {
         "iso": "PW",
@@ -5791,7 +5976,8 @@
         ],
         "nationality": [
             "Palauan"
-        ]
+        ],
+        "flag_emoji": "🇵🇼"
     },
     {
         "iso": "PY",
@@ -5821,7 +6007,8 @@
         ],
         "nationality": [
             "Paraguayan"
-        ]
+        ],
+        "flag_emoji": "🇵🇾"
     },
     {
         "iso": "QA",
@@ -5849,7 +6036,8 @@
         ],
         "nationality": [
             "Qatari"
-        ]
+        ],
+        "flag_emoji": "🇶🇦"
     },
     {
         "iso": "RE",
@@ -5876,7 +6064,8 @@
         "nationality": [
             "Réunionese",
             "Réunionnais"
-        ]
+        ],
+        "flag_emoji": "🇷🇪"
     },
     {
         "iso": "RO",
@@ -5909,7 +6098,8 @@
         ],
         "nationality": [
             "Romanian"
-        ]
+        ],
+        "flag_emoji": "🇷🇴"
     },
     {
         "iso": "RS",
@@ -5948,7 +6138,8 @@
         ],
         "nationality": [
             "Serbian"
-        ]
+        ],
+        "flag_emoji": "🇷🇸"
     },
     {
         "iso": "RU",
@@ -6016,7 +6207,8 @@
         ],
         "nationality": [
             "Russian"
-        ]
+        ],
+        "flag_emoji": "🇷🇺"
     },
     {
         "iso": "RW",
@@ -6051,7 +6243,8 @@
         ],
         "nationality": [
             "Rwandan"
-        ]
+        ],
+        "flag_emoji": "🇷🇼"
     },
     {
         "iso": "SA",
@@ -6084,7 +6277,8 @@
         "nationality": [
             "Saudi",
             "Saudi Arabian"
-        ]
+        ],
+        "flag_emoji": "🇸🇦"
     },
     {
         "iso": "SB",
@@ -6111,7 +6305,8 @@
         ],
         "nationality": [
             "Solomon Island"
-        ]
+        ],
+        "flag_emoji": "🇸🇧"
     },
     {
         "iso": "SC",
@@ -6139,7 +6334,8 @@
         ],
         "nationality": [
             "Seychellois"
-        ]
+        ],
+        "flag_emoji": "🇸🇨"
     },
     {
         "iso": "SD",
@@ -6174,7 +6370,8 @@
         ],
         "nationality": [
             "Sudanese"
-        ]
+        ],
+        "flag_emoji": "🇸🇩"
     },
     {
         "iso": "SS",
@@ -6205,7 +6402,8 @@
         ],
         "nationality": [
             "South Sudanese"
-        ]
+        ],
+        "flag_emoji": "🇸🇸"
     },
     {
         "iso": "SE",
@@ -6237,7 +6435,8 @@
         ],
         "nationality": [
             "Swedish"
-        ]
+        ],
+        "flag_emoji": "🇸🇪"
     },
     {
         "iso": "SG",
@@ -6270,7 +6469,8 @@
         ],
         "nationality": [
             "Singaporean"
-        ]
+        ],
+        "flag_emoji": "🇸🇬"
     },
     {
         "iso": "SH",
@@ -6296,7 +6496,8 @@
         ],
         "nationality": [
             "Saint Helenian"
-        ]
+        ],
+        "flag_emoji": "🇸🇭"
     },
     {
         "iso": "SI",
@@ -6327,7 +6528,8 @@
         "nationality": [
             "Slovenian",
             "Slovene"
-        ]
+        ],
+        "flag_emoji": "🇸🇮"
     },
     {
         "iso": "SJ",
@@ -6355,7 +6557,8 @@
         ],
         "nationality": [
             "Svalbard"
-        ]
+        ],
+        "flag_emoji": "🇸🇯"
     },
     {
         "iso": "SK",
@@ -6387,7 +6590,8 @@
         ],
         "nationality": [
             "Slovak"
-        ]
+        ],
+        "flag_emoji": "🇸🇰"
     },
     {
         "iso": "SL",
@@ -6416,7 +6620,8 @@
         ],
         "nationality": [
             "Sierra Leonean"
-        ]
+        ],
+        "flag_emoji": "🇸🇱"
     },
     {
         "iso": "SM",
@@ -6442,7 +6647,8 @@
         ],
         "nationality": [
             "Sammarinese"
-        ]
+        ],
+        "flag_emoji": "🇸🇲"
     },
     {
         "iso": "SN",
@@ -6476,7 +6682,8 @@
         ],
         "nationality": [
             "Senegalese"
-        ]
+        ],
+        "flag_emoji": "🇸🇳"
     },
     {
         "iso": "SO",
@@ -6511,7 +6718,8 @@
         "nationality": [
             "Somali",
             "Somalian"
-        ]
+        ],
+        "flag_emoji": "🇸🇴"
     },
     {
         "iso": "SR",
@@ -6545,7 +6753,8 @@
         ],
         "nationality": [
             "Surinamese"
-        ]
+        ],
+        "flag_emoji": "🇸🇷"
     },
     {
         "iso": "ST",
@@ -6571,7 +6780,8 @@
         ],
         "nationality": [
             "São Toméan"
-        ]
+        ],
+        "flag_emoji": "🇸🇹"
     },
     {
         "iso": "SV",
@@ -6598,7 +6808,8 @@
         ],
         "nationality": [
             "Salvadoran"
-        ]
+        ],
+        "flag_emoji": "🇸🇻"
     },
     {
         "iso": "SX",
@@ -6626,7 +6837,8 @@
         ],
         "nationality": [
             "Sint Maarten"
-        ]
+        ],
+        "flag_emoji": "🇸🇽"
     },
     {
         "iso": "SY",
@@ -6665,7 +6877,8 @@
         ],
         "nationality": [
             "Syrian"
-        ]
+        ],
+        "flag_emoji": "🇸🇾"
     },
     {
         "iso": "SZ",
@@ -6694,7 +6907,8 @@
         ],
         "nationality": [
             "Swazi"
-        ]
+        ],
+        "flag_emoji": "🇸🇿"
     },
     {
         "iso": "TC",
@@ -6720,7 +6934,8 @@
         ],
         "nationality": [
             "Turks and Caicos Island"
-        ]
+        ],
+        "flag_emoji": "🇹🇨"
     },
     {
         "iso": "TD",
@@ -6754,7 +6969,8 @@
         ],
         "nationality": [
             "Chadian"
-        ]
+        ],
+        "flag_emoji": "🇹🇩"
     },
     {
         "iso": "TF",
@@ -6780,7 +6996,8 @@
         ],
         "nationality": [
             "French Southern Territories"
-        ]
+        ],
+        "flag_emoji": "🇹🇫"
     },
     {
         "iso": "TG",
@@ -6815,7 +7032,8 @@
         ],
         "nationality": [
             "Togolese"
-        ]
+        ],
+        "flag_emoji": "🇹🇬"
     },
     {
         "iso": "TH",
@@ -6846,7 +7064,8 @@
         ],
         "nationality": [
             "Thai"
-        ]
+        ],
+        "flag_emoji": "🇹🇭"
     },
     {
         "iso": "TJ",
@@ -6877,7 +7096,8 @@
         ],
         "nationality": [
             "Tajikistani"
-        ]
+        ],
+        "flag_emoji": "🇹🇯"
     },
     {
         "iso": "TK",
@@ -6904,7 +7124,8 @@
         ],
         "nationality": [
             "Tokelauan"
-        ]
+        ],
+        "flag_emoji": "🇹🇰"
     },
     {
         "iso": "TL",
@@ -6935,7 +7156,8 @@
         ],
         "nationality": [
             "Timorese"
-        ]
+        ],
+        "flag_emoji": "🇹🇱"
     },
     {
         "iso": "TM",
@@ -6968,7 +7190,8 @@
         ],
         "nationality": [
             "Turkmen"
-        ]
+        ],
+        "flag_emoji": "🇹🇲"
     },
     {
         "iso": "TN",
@@ -6997,7 +7220,8 @@
         ],
         "nationality": [
             "Tunisian"
-        ]
+        ],
+        "flag_emoji": "🇹🇳"
     },
     {
         "iso": "TO",
@@ -7025,7 +7249,8 @@
         ],
         "nationality": [
             "Tongan"
-        ]
+        ],
+        "flag_emoji": "🇹🇴"
     },
     {
         "iso": "TR",
@@ -7065,7 +7290,8 @@
         ],
         "nationality": [
             "Turkish"
-        ]
+        ],
+        "flag_emoji": "🇹🇷"
     },
     {
         "iso": "TT",
@@ -7098,7 +7324,8 @@
         ],
         "nationality": [
             "Trinidadian or Tobagonian"
-        ]
+        ],
+        "flag_emoji": "🇹🇹"
     },
     {
         "iso": "TV",
@@ -7128,7 +7355,8 @@
         ],
         "nationality": [
             "Tuvaluan"
-        ]
+        ],
+        "flag_emoji": "🇹🇻"
     },
     {
         "iso": "TW",
@@ -7159,7 +7387,8 @@
         "nationality": [
             "Chinese",
             "Taiwanese"
-        ]
+        ],
+        "flag_emoji": "🇹🇼"
     },
     {
         "iso": "TZ",
@@ -7196,7 +7425,8 @@
         ],
         "nationality": [
             "Tanzanian"
-        ]
+        ],
+        "flag_emoji": "🇹🇿"
     },
     {
         "iso": "UA",
@@ -7235,7 +7465,8 @@
         ],
         "nationality": [
             "Ukrainian"
-        ]
+        ],
+        "flag_emoji": "🇺🇦"
     },
     {
         "iso": "UG",
@@ -7271,7 +7502,8 @@
         ],
         "nationality": [
             "Ugandan"
-        ]
+        ],
+        "flag_emoji": "🇺🇬"
     },
     {
         "iso": "UM",
@@ -7297,7 +7529,8 @@
         ],
         "nationality": [
             "American"
-        ]
+        ],
+        "flag_emoji": "🇺🇲"
     },
     {
         "iso": "US",
@@ -7330,7 +7563,8 @@
         ],
         "nationality": [
             "American"
-        ]
+        ],
+        "flag_emoji": "🇺🇸"
     },
     {
         "iso": "UY",
@@ -7357,7 +7591,8 @@
         ],
         "nationality": [
             "Uruguayan"
-        ]
+        ],
+        "flag_emoji": "🇺🇾"
     },
     {
         "iso": "UZ",
@@ -7392,7 +7627,8 @@
         "nationality": [
             "Uzbekistani",
             "Uzbek"
-        ]
+        ],
+        "flag_emoji": "🇺🇿"
     },
     {
         "iso": "VA",
@@ -7422,7 +7658,8 @@
         ],
         "nationality": [
             "Vatican"
-        ]
+        ],
+        "flag_emoji": "🇻🇦"
     },
     {
         "iso": "VC",
@@ -7451,7 +7688,8 @@
         "nationality": [
             "Saint Vincentian",
             "Vincentian"
-        ]
+        ],
+        "flag_emoji": "🇻🇨"
     },
     {
         "iso": "VE",
@@ -7479,7 +7717,8 @@
         ],
         "nationality": [
             "Venezuelan"
-        ]
+        ],
+        "flag_emoji": "🇻🇪"
     },
     {
         "iso": "VG",
@@ -7505,7 +7744,8 @@
         ],
         "nationality": [
             "British Virgin Island"
-        ]
+        ],
+        "flag_emoji": "🇻🇬"
     },
     {
         "iso": "VI",
@@ -7531,7 +7771,8 @@
         ],
         "nationality": [
             "U.S. Virgin Island"
-        ]
+        ],
+        "flag_emoji": "🇻🇮"
     },
     {
         "iso": "VN",
@@ -7567,7 +7808,8 @@
         ],
         "nationality": [
             "Vietnamese"
-        ]
+        ],
+        "flag_emoji": "🇻🇳"
     },
     {
         "iso": "VU",
@@ -7598,7 +7840,8 @@
         "nationality": [
             "Ni-Vanuatu",
             "Vanuatuan"
-        ]
+        ],
+        "flag_emoji": "🇻🇺"
     },
     {
         "iso": "WF",
@@ -7627,7 +7870,8 @@
         "nationality": [
             "Wallis and Futuna",
             "Wallisian or Futunan"
-        ]
+        ],
+        "flag_emoji": "🇼🇫"
     },
     {
         "iso": "WS",
@@ -7655,7 +7899,8 @@
         ],
         "nationality": [
             "Samoan"
-        ]
+        ],
+        "flag_emoji": "🇼🇸"
     },
     {
         "iso": "YE",
@@ -7682,7 +7927,8 @@
         ],
         "nationality": [
             "Yemeni"
-        ]
+        ],
+        "flag_emoji": "🇾🇪"
     },
     {
         "iso": "YT",
@@ -7708,7 +7954,8 @@
         ],
         "nationality": [
             "Mahoran"
-        ]
+        ],
+        "flag_emoji": "🇾🇹"
     },
     {
         "iso": "ZA",
@@ -7758,7 +8005,8 @@
         ],
         "nationality": [
             "South African"
-        ]
+        ],
+        "flag_emoji": "🇿🇦"
     },
     {
         "iso": "ZM",
@@ -7797,7 +8045,8 @@
         ],
         "nationality": [
             "Zambian"
-        ]
+        ],
+        "flag_emoji": "🇿🇲"
     },
     {
         "iso": "ZW",
@@ -7832,7 +8081,8 @@
         ],
         "nationality": [
             "Zimbabwean"
-        ]
+        ],
+        "flag_emoji": "🇿🇼"
     },
     {
         "iso": "CS",
