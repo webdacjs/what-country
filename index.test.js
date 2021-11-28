@@ -26,6 +26,11 @@ test('Testing query country', () => {
   expect(res[0].name).toBe('Ireland')
 })
 
+test('Testing query North Macedonia', () => {
+  const res = query('North Macedonia')
+  expect(res[0].name).toBe('North Macedonia')
+})
+
 test('Testing query repeated country name', () => {
   const res = query('Ireland Ireland')
   expect(res[0].name).toBe('Ireland')
