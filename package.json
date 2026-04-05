@@ -1,10 +1,28 @@
 {
   "name": "what-country",
-  "version": "1.8.0",
-  "description": "Query country data by name, iso code, tld, currency, citzienship, phone, etc",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "Query country data by name, iso code, tld, currency, citizenship, phone, etc",
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
+  "types": "./dist/cjs/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/esm/index.js",
+      "require": "./dist/cjs/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "data"
+  ],
   "scripts": {
-    "test": "jest"
+    "build": "pnpm run build:cjs && pnpm run build:esm",
+    "build:cjs": "tsc -p tsconfig.cjs.json --declarationMap false",
+    "build:esm": "tsc -p tsconfig.esm.json --declarationMap false",
+    "dev": "tsx src/index.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage"
   },
   "repository": {
     "type": "git",
@@ -21,12 +39,10 @@
     "url": "https://github.com/webdacjs/what-country/issues"
   },
   "homepage": "https://github.com/webdacjs/what-country#readme",
-  "dependencies": {
-    "lodash.filter": "^4.6.0",
-    "object.pick": "^1.3.0",
-    "sort-objects-array": "^1.7.1"
-  },
   "devDependencies": {
-    "jest": "^27.0.4"
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
   }
 }
