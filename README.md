@@ -152,5 +152,5 @@ Finally the module will try to address cases where the input have duplicate entr
 
 ### License
 
-Copyright © 2020, [Juan Convers](https://juanconvers.com).
+Copyright © 2026, [Juan Convers](https://juanconvers.com).
 Released under the [MIT License](LICENSE).

@@ -16,7 +16,8 @@
     "data"
   ],
   "scripts": {
-    "build": "pnpm run build:cjs && pnpm run build:esm",
+    "build": "pnpm run build:cjs && pnpm run build:esm && pnpm run copy:data",
+    "copy:data": "node -e \"const {cpSync}=require('fs');cpSync('data','dist/data',{recursive:true})\"",
     "build:cjs": "tsc -p tsconfig.cjs.json --declarationMap false",
     "build:esm": "tsc -p tsconfig.esm.json --declarationMap false",
     "dev": "tsx src/index.ts",
