@@ -1,6 +1,6 @@
 # What Country
 
-This module get country information based on the query provided based on different available parameters such as the country name, iso code, tld, currency, phone, etc. The module supports querying the data in multiple languages.
+This module get country information based on the query provided based on different available parameters such as the country name, iso code, tld, currency, phone, etc. The module supports querying the data in multiple languages. Ships with full TypeScript types and works in both **CommonJS** and **ESM** environments.
 
 The most basic use is:
 
